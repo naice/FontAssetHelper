@@ -1780,202 +1780,3472 @@
         }
       ]
     },
-
     {
       "FontFamily": "Segoe UI",
       "FriendlyName": "Emoji - Persons",
-      "ResourcePrefix": "MDL2_",
+      "ResourcePrefix": "Persons_",
       "FontSize": 60,
       "Symbols": [
-        {"Hex":"1F604","Name":"Smiling Face with Open Mouth and Smiling Eyes"},
-        {"Hex":"1F603","Name":"Smiling Face With Open Mouth"},
-        {"Hex":"1F600","Name":"Grinning Face with Smiling Eyes"},
-        {"Hex":"1F60A","Name":"Smiling Face with Smiling Eyes"},
-        {"Hex":"263A","Name":"White Smiling Face"},
-        {"Hex":"1F609","Name":"Winking Face"},
-        {"Hex":"1F60D","Name":"Smiling Face With Heart-Shaped Eyes"},
-        {"Hex":"1F618","Name":"Face Throwing a Kiss"},
-        {"Hex":"1F61A","Name":"Kissing Face With Closed Eyes"},
-        {"Hex":"1F617","Name":"Kissing Face"},
-        {"Hex":"1F619","Name":"Kissing Face With Smiling Eyes"},
-        {"Hex":"1F61C","Name":"Face with Stuck-Out Tongue and Winking Eye"},
-        {"Hex":"1F61D","Name":"Face with Stuck-Out Tongue and Tightly-Closed Eyes"},
-        {"Hex":"1F61B","Name":"Face With Stuck-Out Tongue"},
-        {"Hex":"1F633","Name":"Flushed Face"},
-        {"Hex":"1F601","Name":"Grinning Face with Smiling Eyes"},
-        {"Hex":"1F614","Name":"Pensive Face"},
-        {"Hex":"1F60C","Name":"Relieved Face"},
-        {"Hex":"1F612","Name":"Unamused Face"},
-        {"Hex":"1F61E","Name":"Disappointed Face"},
-        {"Hex":"1F623","Name":"Persevering Face"},
-        {"Hex":"1F622","Name":"Crying Face"},
-        {"Hex":"1F602","Name":"Face with Tears of Joy"},
-        {"Hex":"1F62D","Name":"Loudly Crying Face"},
-        {"Hex":"1F62A","Name":"Sleepy Face"},
-        {"Hex":"1F625","Name":"Disappointed but Relieved Face"},
-        {"Hex":"1F630","Name":"Face with Open Mouth and Cold Sweat"},
-        {"Hex":"1F605","Name":"Smiling Face With Open Mouth And Cold Sweat"},
-        {"Hex":"1F613","Name":"Face with Cold Sweat"},
-        {"Hex":"1F629","Name":"Weary Face"},
-        {"Hex":"1F62B","Name":"Tired Face"},
-        {"Hex":"1F628","Name":"Fearful Face"},
-        {"Hex":"1F631","Name":"Face Screaming in Fear"},
-        {"Hex":"1F620","Name":"Angry Face"},
-        {"Hex":"1F621","Name":"Pouting Face"},
-        {"Hex":"1F624","Name":"Face With Look Of Triumph"},
-        {"Hex":"1F616","Name":"Confounded Face"},
-        {"Hex":"1F606","Name":"Smiling Face With Open Mouth And Tightly-Closed Eyes"},
-        {"Hex":"1F60B","Name":"Face Savouring Delicious Food"},
-        {"Hex":"1F637","Name":"Face with Medical Mask"},
-        {"Hex":"1F60E","Name":"Smiling Face With Sunglasses"},
-        {"Hex":"1F634","Name":"Sleeping Face"},
-        {"Hex":"1F635","Name":"Dizzy Face"},
-        {"Hex":"1F632","Name":"Astonished Face"},
-        {"Hex":"1F61F","Name":"Worried Face"},
-        {"Hex":"1F626","Name":"Frowning Face With Open Mouth"},
-        {"Hex":"1F627","Name":"Anguished Face"},
-        {"Hex":"1F608","Name":"Smiling Face With Horns"},
-        {"Hex":"1F47F","Name":"IMP"},
-        {"Hex":"1F62E","Name":"Face With Open Mouth"},
-        {"Hex":"1F62C","Name":"Grimacing Face"},
-        {"Hex":"1F610","Name":"Neutral Face"},
-        {"Hex":"1F615","Name":"Confused Face"},
-        {"Hex":"1F62F","Name":"Hushed Face"},
-        {"Hex":"1F636","Name":"Face Without Mouth"},
-        {"Hex":"1F607","Name":"Smiling Face With Halo"},
-        {"Hex":"1F60F","Name":"Smirking Face"},
-        {"Hex":"1F611","Name":"Expressionless Face"},
-        {"Hex":"1F472","Name":"Man With Gua Pi Mao"},
-        {"Hex":"1F473","Name":"Man with Turban"},
-        {"Hex":"1F46E","Name":"Police Officer"},
-        {"Hex":"1F477","Name":"Construction Worker"},
-        {"Hex":"1F482","Name":"Guardsman"},
-        {"Hex":"1F476","Name":"Baby"},
-        {"Hex":"1F466","Name":"Boy"},
-        {"Hex":"1F467","Name":"Girl"},
-        {"Hex":"1F468","Name":"Man"},
-        {"Hex":"1F469","Name":"Woman"},
-        {"Hex":"1F474","Name":"Older Man"},
-        {"Hex":"1F475","Name":"Older Woman"},
-        {"Hex":"1F471","Name":"Person With Blonde Hair"},
-        {"Hex":"1F47C","Name":"Baby Angel"},
-        {"Hex":"1F478","Name":"Princess"},
-        {"Hex":"1F63A","Name":"Smiling Cat Face With Open Mouth"},
-        {"Hex":"1F638","Name":"Grinning Cat Face With Smiling Eyes"},
-        {"Hex":"1F63B","Name":"Smiling Face Face With Heart-Shaped Eyes"},
-        {"Hex":"1F63D","Name":"Kissing Cat Face With Closed Eyes"},
-        {"Hex":"1F63C","Name":"Cat Face With Wry Smile"},
-        {"Hex":"1F640","Name":"Weary Cat Face"},
-        {"Hex":"1F63F","Name":"Crying Cat Face"},
-        {"Hex":"1F639","Name":"Cat Face With Tears Of Joy"},
-        {"Hex":"1F63E","Name":"Pouting Cat Face"},
-        {"Hex":"1F479","Name":"Japanese Ogre"},
-        {"Hex":"1F47A","Name":"Japanese Goblin"},
-        {"Hex":"1F648","Name":"See-No-Evil Monkey"},
-        {"Hex":"1F649","Name":"Hear-No-Evil Monkey"},
-        {"Hex":"1F64A","Name":"Speak-No-Evil Monkey"},
-        {"Hex":"1F480","Name":"Skull"},
-        {"Hex":"1F47D","Name":"Extraterrestrial Alien"},
-        {"Hex":"1F4A9","Name":"Pile Of Poo"},
-        {"Hex":"1F525","Name":"Fire"},
-        {"Hex":"2728","Name":"Sparkles"},
-        {"Hex":"1F31F","Name":"Glowing Star"},
-        {"Hex":"1F4AB","Name":"Dizzy Symbol"},
-        {"Hex":"1F4A5","Name":"Collision Symbol"},
-        {"Hex":"1F4A2","Name":"Anger Symbol"},
-        {"Hex":"1F4A6","Name":"Splashing Sweat Symbol"},
-        {"Hex":"1F4A7","Name":"Droplet"},
-        {"Hex":"1F4A4","Name":"Sleeping Symbol"},
-        {"Hex":"1F4A8","Name":"Dash Symbol"},
-        {"Hex":"1F442","Name":"Ear"},
-        {"Hex":"1F440","Name":"Eyes"},
-        {"Hex":"1F443","Name":"Nose"},
-        {"Hex":"1F445","Name":"Tongue"},
-        {"Hex":"1F444","Name":"Mouth"},
-        {"Hex":"1F44D","Name":"Thumbs Up Sign"},
-        {"Hex":"1F44E","Name":"Thumbs Down Sign"},
-        {"Hex":"1F44C","Name":"OK Hand Sign"},
-        {"Hex":"1F44A","Name":"Fisted Hand Sign"},
-        {"Hex":"270A","Name":"Raised Fist"},
-        {"Hex":"270C","Name":"Victory Hand"},
-        {"Hex":"1F44B","Name":"Waving Hand Sign"},
-        {"Hex":"270B","Name":"Raised Hand"},
-        {"Hex":"1F450","Name":"Open Hands Sign"},
-        {"Hex":"1F446","Name":"White Up Pointing Backhand Index"},
-        {"Hex":"1F447","Name":"White Down Pointing Backhand Index"},
-        {"Hex":"1F449","Name":"White Right Pointing Backhand Index"},
-        {"Hex":"1F448","Name":"White Left Pointing Backhand Index"},
-        {"Hex":"1F64C","Name":"Person Raising Both Hands in Celebration"},
-        {"Hex":"1F64F","Name":"Person With Folded Hands"},
-        {"Hex":"261D","Name":"White Up Pointing Index"},
-        {"Hex":"1F44F","Name":"Clapping Hands Sign"},
-        {"Hex":"1F4AA","Name":"Flexed Biceps"},
-        {"Hex":"1F6B6","Name":"Pedestrian"},
-        {"Hex":"1F3C3","Name":"Runner"},
-        {"Hex":"1F483","Name":"Dancer"},
-        {"Hex":"1F46B","Name":"Man and Woman Holding Hands"},
-        {"Hex":"1F46A","Name":"Family"},
-        {"Hex":"1F46C","Name":"Two Men Holding Hands"},
-        {"Hex":"1F46D","Name":"Two Women Holding Hands"},
-        {"Hex":"1F48F","Name":"Kiss"},
-        {"Hex":"1F491","Name":"Couple with Heart"},
-        {"Hex":"1F46F","Name":"Women With Bunny Ears"},
-        {"Hex":"1F646","Name":"Face With OK Gesture"},
-        {"Hex":"1F645","Name":"Face With No Good Gesture"},
-        {"Hex":"1F481","Name":"Information Desk Person"},
-        {"Hex":"1F64B","Name":"Happy Person Raising One Hand"},
-        {"Hex":"1F486","Name":"Face Massage"},
-        {"Hex":"1F487","Name":"Haircut"},
-        {"Hex":"1F485","Name":"Nail Polish"},
-        {"Hex":"1F470","Name":"Bride With Veil"},
-        {"Hex":"1F64E","Name":"Person With Pouting Face"},
-        {"Hex":"1F64D","Name":"Person Frowning"},
-        {"Hex":"1F647","Name":"Person Bowing Deeply"},
-        {"Hex":"1F3A9","Name":"Top Hat"},
-        {"Hex":"1F451","Name":"Crown"},
-        {"Hex":"1F452","Name":"Womans Hat"},
-        {"Hex":"1F45F","Name":"Athletic Shoe"},
-        {"Hex":"1F45E","Name":"Mens Shoe"},
-        {"Hex":"1F461","Name":"Womans Sandal"},
-        {"Hex":"1F460","Name":"High-Heeled Shoe"},
-        {"Hex":"1F462","Name":"Womans Boots"},
-        {"Hex":"1F455","Name":"T-Shirt"},
-        {"Hex":"1F454","Name":"Necktie"},
-        {"Hex":"1F45A","Name":"Womans Clothes"},
-        {"Hex":"1F457","Name":"Dress"},
-        {"Hex":"1F3BD","Name":"Running Shirt With Sash"},
-        {"Hex":"1F456","Name":"Jeans"},
-        {"Hex":"1F458","Name":"Kimono"},
-        {"Hex":"1F459","Name":"Bikini"},
-        {"Hex":"1F4BC","Name":"Briefcase"},
-        {"Hex":"1F45C","Name":"Handbag"},
-        {"Hex":"1F45D","Name":"Pouch"},
-        {"Hex":"1F45B","Name":"Purse"},
-        {"Hex":"1F453","Name":"Eyeglasses"},
-        {"Hex":"1F380","Name":"Ribbon"},
-        {"Hex":"1F302","Name":"Closed Umbrella"},
-        {"Hex":"1F484","Name":"Lipstick"},
-        {"Hex":"1F49B","Name":"Yellow Heart"},
-        {"Hex":"1F499","Name":"Blue Heart"},
-        {"Hex":"1F49C","Name":"Purple Heart"},
-        {"Hex":"1F49A","Name":"Green Heart"},
-        {"Hex":"2764","Name":"Heavy Black Heart"},
-        {"Hex":"1F494","Name":"Broken Heart"},
-        {"Hex":"1F497","Name":"Growing Heart"},
-        {"Hex":"1F493","Name":"Beating Heart"},
-        {"Hex":"1F495","Name":"Two Hearts"},
-        {"Hex":"1F496","Name":"Sparkling Hearts"},
-        {"Hex":"1F49E","Name":"Revolving Hearts"},
-        {"Hex":"1F498","Name":"Heart with Arrow"},
-        {"Hex":"1F48C","Name":"Love Letter"},
-        {"Hex":"1F48B","Name":"Kiss Mark"},
-        {"Hex":"1F48D","Name":"Ring"},
-        {"Hex":"1F48E","Name":"Gem Stone"},
-        {"Hex":"1F464","Name":"Bust In Silhouette"},
-        {"Hex":"1F465","Name":"Busts In Silhouette"},
-        {"Hex":"1F4AC","Name":"Speech Balloon"},
-        {"Hex":"1F463","Name":"Footprints"},
-        {"Hex":"1F4AD","Name":"Thought Balloon"}
+        {
+          "Hex": "1F604",
+          "Name": "Smiling Face with Open Mouth and Smiling Eyes"
+        },
+        {
+          "Hex": "1F603",
+          "Name": "Smiling Face With Open Mouth"
+        },
+        {
+          "Hex": "1F600",
+          "Name": "Grinning Face with Smiling Eyes"
+        },
+        {
+          "Hex": "1F60A",
+          "Name": "Smiling Face with Smiling Eyes"
+        },
+        {
+          "Hex": "263A",
+          "Name": "White Smiling Face"
+        },
+        {
+          "Hex": "1F609",
+          "Name": "Winking Face"
+        },
+        {
+          "Hex": "1F60D",
+          "Name": "Smiling Face With Heart-Shaped Eyes"
+        },
+        {
+          "Hex": "1F618",
+          "Name": "Face Throwing a Kiss"
+        },
+        {
+          "Hex": "1F61A",
+          "Name": "Kissing Face With Closed Eyes"
+        },
+        {
+          "Hex": "1F617",
+          "Name": "Kissing Face"
+        },
+        {
+          "Hex": "1F619",
+          "Name": "Kissing Face With Smiling Eyes"
+        },
+        {
+          "Hex": "1F61C",
+          "Name": "Face with Stuck-Out Tongue and Winking Eye"
+        },
+        {
+          "Hex": "1F61D",
+          "Name": "Face with Stuck-Out Tongue and Tightly-Closed Eyes"
+        },
+        {
+          "Hex": "1F61B",
+          "Name": "Face With Stuck-Out Tongue"
+        },
+        {
+          "Hex": "1F633",
+          "Name": "Flushed Face"
+        },
+        {
+          "Hex": "1F601",
+          "Name": "Grinning Face with Smiling Eyes"
+        },
+        {
+          "Hex": "1F614",
+          "Name": "Pensive Face"
+        },
+        {
+          "Hex": "1F60C",
+          "Name": "Relieved Face"
+        },
+        {
+          "Hex": "1F612",
+          "Name": "Unamused Face"
+        },
+        {
+          "Hex": "1F61E",
+          "Name": "Disappointed Face"
+        },
+        {
+          "Hex": "1F623",
+          "Name": "Persevering Face"
+        },
+        {
+          "Hex": "1F622",
+          "Name": "Crying Face"
+        },
+        {
+          "Hex": "1F602",
+          "Name": "Face with Tears of Joy"
+        },
+        {
+          "Hex": "1F62D",
+          "Name": "Loudly Crying Face"
+        },
+        {
+          "Hex": "1F62A",
+          "Name": "Sleepy Face"
+        },
+        {
+          "Hex": "1F625",
+          "Name": "Disappointed but Relieved Face"
+        },
+        {
+          "Hex": "1F630",
+          "Name": "Face with Open Mouth and Cold Sweat"
+        },
+        {
+          "Hex": "1F605",
+          "Name": "Smiling Face With Open Mouth And Cold Sweat"
+        },
+        {
+          "Hex": "1F613",
+          "Name": "Face with Cold Sweat"
+        },
+        {
+          "Hex": "1F629",
+          "Name": "Weary Face"
+        },
+        {
+          "Hex": "1F62B",
+          "Name": "Tired Face"
+        },
+        {
+          "Hex": "1F628",
+          "Name": "Fearful Face"
+        },
+        {
+          "Hex": "1F631",
+          "Name": "Face Screaming in Fear"
+        },
+        {
+          "Hex": "1F620",
+          "Name": "Angry Face"
+        },
+        {
+          "Hex": "1F621",
+          "Name": "Pouting Face"
+        },
+        {
+          "Hex": "1F624",
+          "Name": "Face With Look Of Triumph"
+        },
+        {
+          "Hex": "1F616",
+          "Name": "Confounded Face"
+        },
+        {
+          "Hex": "1F606",
+          "Name": "Smiling Face With Open Mouth And Tightly-Closed Eyes"
+        },
+        {
+          "Hex": "1F60B",
+          "Name": "Face Savouring Delicious Food"
+        },
+        {
+          "Hex": "1F637",
+          "Name": "Face with Medical Mask"
+        },
+        {
+          "Hex": "1F60E",
+          "Name": "Smiling Face With Sunglasses"
+        },
+        {
+          "Hex": "1F634",
+          "Name": "Sleeping Face"
+        },
+        {
+          "Hex": "1F635",
+          "Name": "Dizzy Face"
+        },
+        {
+          "Hex": "1F632",
+          "Name": "Astonished Face"
+        },
+        {
+          "Hex": "1F61F",
+          "Name": "Worried Face"
+        },
+        {
+          "Hex": "1F626",
+          "Name": "Frowning Face With Open Mouth"
+        },
+        {
+          "Hex": "1F627",
+          "Name": "Anguished Face"
+        },
+        {
+          "Hex": "1F608",
+          "Name": "Smiling Face With Horns"
+        },
+        {
+          "Hex": "1F47F",
+          "Name": "IMP"
+        },
+        {
+          "Hex": "1F62E",
+          "Name": "Face With Open Mouth"
+        },
+        {
+          "Hex": "1F62C",
+          "Name": "Grimacing Face"
+        },
+        {
+          "Hex": "1F610",
+          "Name": "Neutral Face"
+        },
+        {
+          "Hex": "1F615",
+          "Name": "Confused Face"
+        },
+        {
+          "Hex": "1F62F",
+          "Name": "Hushed Face"
+        },
+        {
+          "Hex": "1F636",
+          "Name": "Face Without Mouth"
+        },
+        {
+          "Hex": "1F607",
+          "Name": "Smiling Face With Halo"
+        },
+        {
+          "Hex": "1F60F",
+          "Name": "Smirking Face"
+        },
+        {
+          "Hex": "1F611",
+          "Name": "Expressionless Face"
+        },
+        {
+          "Hex": "1F472",
+          "Name": "Man With Gua Pi Mao"
+        },
+        {
+          "Hex": "1F473",
+          "Name": "Man with Turban"
+        },
+        {
+          "Hex": "1F46E",
+          "Name": "Police Officer"
+        },
+        {
+          "Hex": "1F477",
+          "Name": "Construction Worker"
+        },
+        {
+          "Hex": "1F482",
+          "Name": "Guardsman"
+        },
+        {
+          "Hex": "1F476",
+          "Name": "Baby"
+        },
+        {
+          "Hex": "1F466",
+          "Name": "Boy"
+        },
+        {
+          "Hex": "1F467",
+          "Name": "Girl"
+        },
+        {
+          "Hex": "1F468",
+          "Name": "Man"
+        },
+        {
+          "Hex": "1F469",
+          "Name": "Woman"
+        },
+        {
+          "Hex": "1F474",
+          "Name": "Older Man"
+        },
+        {
+          "Hex": "1F475",
+          "Name": "Older Woman"
+        },
+        {
+          "Hex": "1F471",
+          "Name": "Person With Blonde Hair"
+        },
+        {
+          "Hex": "1F47C",
+          "Name": "Baby Angel"
+        },
+        {
+          "Hex": "1F478",
+          "Name": "Princess"
+        },
+        {
+          "Hex": "1F63A",
+          "Name": "Smiling Cat Face With Open Mouth"
+        },
+        {
+          "Hex": "1F638",
+          "Name": "Grinning Cat Face With Smiling Eyes"
+        },
+        {
+          "Hex": "1F63B",
+          "Name": "Smiling Face Face With Heart-Shaped Eyes"
+        },
+        {
+          "Hex": "1F63D",
+          "Name": "Kissing Cat Face With Closed Eyes"
+        },
+        {
+          "Hex": "1F63C",
+          "Name": "Cat Face With Wry Smile"
+        },
+        {
+          "Hex": "1F640",
+          "Name": "Weary Cat Face"
+        },
+        {
+          "Hex": "1F63F",
+          "Name": "Crying Cat Face"
+        },
+        {
+          "Hex": "1F639",
+          "Name": "Cat Face With Tears Of Joy"
+        },
+        {
+          "Hex": "1F63E",
+          "Name": "Pouting Cat Face"
+        },
+        {
+          "Hex": "1F479",
+          "Name": "Japanese Ogre"
+        },
+        {
+          "Hex": "1F47A",
+          "Name": "Japanese Goblin"
+        },
+        {
+          "Hex": "1F648",
+          "Name": "See-No-Evil Monkey"
+        },
+        {
+          "Hex": "1F649",
+          "Name": "Hear-No-Evil Monkey"
+        },
+        {
+          "Hex": "1F64A",
+          "Name": "Speak-No-Evil Monkey"
+        },
+        {
+          "Hex": "1F480",
+          "Name": "Skull"
+        },
+        {
+          "Hex": "1F47D",
+          "Name": "Extraterrestrial Alien"
+        },
+        {
+          "Hex": "1F4A9",
+          "Name": "Pile Of Poo"
+        },
+        {
+          "Hex": "1F525",
+          "Name": "Fire"
+        },
+        {
+          "Hex": "2728",
+          "Name": "Sparkles"
+        },
+        {
+          "Hex": "1F31F",
+          "Name": "Glowing Star"
+        },
+        {
+          "Hex": "1F4AB",
+          "Name": "Dizzy Symbol"
+        },
+        {
+          "Hex": "1F4A5",
+          "Name": "Collision Symbol"
+        },
+        {
+          "Hex": "1F4A2",
+          "Name": "Anger Symbol"
+        },
+        {
+          "Hex": "1F4A6",
+          "Name": "Splashing Sweat Symbol"
+        },
+        {
+          "Hex": "1F4A7",
+          "Name": "Droplet"
+        },
+        {
+          "Hex": "1F4A4",
+          "Name": "Sleeping Symbol"
+        },
+        {
+          "Hex": "1F4A8",
+          "Name": "Dash Symbol"
+        },
+        {
+          "Hex": "1F442",
+          "Name": "Ear"
+        },
+        {
+          "Hex": "1F440",
+          "Name": "Eyes"
+        },
+        {
+          "Hex": "1F443",
+          "Name": "Nose"
+        },
+        {
+          "Hex": "1F445",
+          "Name": "Tongue"
+        },
+        {
+          "Hex": "1F444",
+          "Name": "Mouth"
+        },
+        {
+          "Hex": "1F44D",
+          "Name": "Thumbs Up Sign"
+        },
+        {
+          "Hex": "1F44E",
+          "Name": "Thumbs Down Sign"
+        },
+        {
+          "Hex": "1F44C",
+          "Name": "OK Hand Sign"
+        },
+        {
+          "Hex": "1F44A",
+          "Name": "Fisted Hand Sign"
+        },
+        {
+          "Hex": "270A",
+          "Name": "Raised Fist"
+        },
+        {
+          "Hex": "270C",
+          "Name": "Victory Hand"
+        },
+        {
+          "Hex": "1F44B",
+          "Name": "Waving Hand Sign"
+        },
+        {
+          "Hex": "270B",
+          "Name": "Raised Hand"
+        },
+        {
+          "Hex": "1F450",
+          "Name": "Open Hands Sign"
+        },
+        {
+          "Hex": "1F446",
+          "Name": "White Up Pointing Backhand Index"
+        },
+        {
+          "Hex": "1F447",
+          "Name": "White Down Pointing Backhand Index"
+        },
+        {
+          "Hex": "1F449",
+          "Name": "White Right Pointing Backhand Index"
+        },
+        {
+          "Hex": "1F448",
+          "Name": "White Left Pointing Backhand Index"
+        },
+        {
+          "Hex": "1F64C",
+          "Name": "Person Raising Both Hands in Celebration"
+        },
+        {
+          "Hex": "1F64F",
+          "Name": "Person With Folded Hands"
+        },
+        {
+          "Hex": "261D",
+          "Name": "White Up Pointing Index"
+        },
+        {
+          "Hex": "1F44F",
+          "Name": "Clapping Hands Sign"
+        },
+        {
+          "Hex": "1F4AA",
+          "Name": "Flexed Biceps"
+        },
+        {
+          "Hex": "1F6B6",
+          "Name": "Pedestrian"
+        },
+        {
+          "Hex": "1F3C3",
+          "Name": "Runner"
+        },
+        {
+          "Hex": "1F483",
+          "Name": "Dancer"
+        },
+        {
+          "Hex": "1F46B",
+          "Name": "Man and Woman Holding Hands"
+        },
+        {
+          "Hex": "1F46A",
+          "Name": "Family"
+        },
+        {
+          "Hex": "1F46C",
+          "Name": "Two Men Holding Hands"
+        },
+        {
+          "Hex": "1F46D",
+          "Name": "Two Women Holding Hands"
+        },
+        {
+          "Hex": "1F48F",
+          "Name": "Kiss"
+        },
+        {
+          "Hex": "1F491",
+          "Name": "Couple with Heart"
+        },
+        {
+          "Hex": "1F46F",
+          "Name": "Women With Bunny Ears"
+        },
+        {
+          "Hex": "1F646",
+          "Name": "Face With OK Gesture"
+        },
+        {
+          "Hex": "1F645",
+          "Name": "Face With No Good Gesture"
+        },
+        {
+          "Hex": "1F481",
+          "Name": "Information Desk Person"
+        },
+        {
+          "Hex": "1F64B",
+          "Name": "Happy Person Raising One Hand"
+        },
+        {
+          "Hex": "1F486",
+          "Name": "Face Massage"
+        },
+        {
+          "Hex": "1F487",
+          "Name": "Haircut"
+        },
+        {
+          "Hex": "1F485",
+          "Name": "Nail Polish"
+        },
+        {
+          "Hex": "1F470",
+          "Name": "Bride With Veil"
+        },
+        {
+          "Hex": "1F64E",
+          "Name": "Person With Pouting Face"
+        },
+        {
+          "Hex": "1F64D",
+          "Name": "Person Frowning"
+        },
+        {
+          "Hex": "1F647",
+          "Name": "Person Bowing Deeply"
+        },
+        {
+          "Hex": "1F3A9",
+          "Name": "Top Hat"
+        },
+        {
+          "Hex": "1F451",
+          "Name": "Crown"
+        },
+        {
+          "Hex": "1F452",
+          "Name": "Womans Hat"
+        },
+        {
+          "Hex": "1F45F",
+          "Name": "Athletic Shoe"
+        },
+        {
+          "Hex": "1F45E",
+          "Name": "Mens Shoe"
+        },
+        {
+          "Hex": "1F461",
+          "Name": "Womans Sandal"
+        },
+        {
+          "Hex": "1F460",
+          "Name": "High-Heeled Shoe"
+        },
+        {
+          "Hex": "1F462",
+          "Name": "Womans Boots"
+        },
+        {
+          "Hex": "1F455",
+          "Name": "T-Shirt"
+        },
+        {
+          "Hex": "1F454",
+          "Name": "Necktie"
+        },
+        {
+          "Hex": "1F45A",
+          "Name": "Womans Clothes"
+        },
+        {
+          "Hex": "1F457",
+          "Name": "Dress"
+        },
+        {
+          "Hex": "1F3BD",
+          "Name": "Running Shirt With Sash"
+        },
+        {
+          "Hex": "1F456",
+          "Name": "Jeans"
+        },
+        {
+          "Hex": "1F458",
+          "Name": "Kimono"
+        },
+        {
+          "Hex": "1F459",
+          "Name": "Bikini"
+        },
+        {
+          "Hex": "1F4BC",
+          "Name": "Briefcase"
+        },
+        {
+          "Hex": "1F45C",
+          "Name": "Handbag"
+        },
+        {
+          "Hex": "1F45D",
+          "Name": "Pouch"
+        },
+        {
+          "Hex": "1F45B",
+          "Name": "Purse"
+        },
+        {
+          "Hex": "1F453",
+          "Name": "Eyeglasses"
+        },
+        {
+          "Hex": "1F380",
+          "Name": "Ribbon"
+        },
+        {
+          "Hex": "1F302",
+          "Name": "Closed Umbrella"
+        },
+        {
+          "Hex": "1F484",
+          "Name": "Lipstick"
+        },
+        {
+          "Hex": "1F49B",
+          "Name": "Yellow Heart"
+        },
+        {
+          "Hex": "1F499",
+          "Name": "Blue Heart"
+        },
+        {
+          "Hex": "1F49C",
+          "Name": "Purple Heart"
+        },
+        {
+          "Hex": "1F49A",
+          "Name": "Green Heart"
+        },
+        {
+          "Hex": "2764",
+          "Name": "Heavy Black Heart"
+        },
+        {
+          "Hex": "1F494",
+          "Name": "Broken Heart"
+        },
+        {
+          "Hex": "1F497",
+          "Name": "Growing Heart"
+        },
+        {
+          "Hex": "1F493",
+          "Name": "Beating Heart"
+        },
+        {
+          "Hex": "1F495",
+          "Name": "Two Hearts"
+        },
+        {
+          "Hex": "1F496",
+          "Name": "Sparkling Hearts"
+        },
+        {
+          "Hex": "1F49E",
+          "Name": "Revolving Hearts"
+        },
+        {
+          "Hex": "1F498",
+          "Name": "Heart with Arrow"
+        },
+        {
+          "Hex": "1F48C",
+          "Name": "Love Letter"
+        },
+        {
+          "Hex": "1F48B",
+          "Name": "Kiss Mark"
+        },
+        {
+          "Hex": "1F48D",
+          "Name": "Ring"
+        },
+        {
+          "Hex": "1F48E",
+          "Name": "Gem Stone"
+        },
+        {
+          "Hex": "1F464",
+          "Name": "Bust In Silhouette"
+        },
+        {
+          "Hex": "1F465",
+          "Name": "Busts In Silhouette"
+        },
+        {
+          "Hex": "1F4AC",
+          "Name": "Speech Balloon"
+        },
+        {
+          "Hex": "1F463",
+          "Name": "Footprints"
+        },
+        {
+          "Hex": "1F4AD",
+          "Name": "Thought Balloon"
+        }
+      ]
+    },
+    {
+      "FontFamily": "file:///%local%\\#FontAwesome",
+      "FriendlyName": "Font Awesome, awesome!",
+      "ResourcePrefix": "FA_",
+      "FontSize": 60,
+      "Symbols": [
+        {
+          "Name": "Glass",
+          "Hex": "F000"
+        },
+        {
+          "Name": "Music",
+          "Hex": "F001"
+        },
+        {
+          "Name": "Search",
+          "Hex": "F002"
+        },
+        {
+          "Name": "EnvelopeO",
+          "Hex": "F003"
+        },
+        {
+          "Name": "Heart",
+          "Hex": "F004"
+        },
+        {
+          "Name": "Star",
+          "Hex": "F005"
+        },
+        {
+          "Name": "StarO",
+          "Hex": "F006"
+        },
+        {
+          "Name": "User",
+          "Hex": "F007"
+        },
+        {
+          "Name": "Film",
+          "Hex": "F008"
+        },
+        {
+          "Name": "ThLarge",
+          "Hex": "F009"
+        },
+        {
+          "Name": "Th",
+          "Hex": "F00A"
+        },
+        {
+          "Name": "ThList",
+          "Hex": "F00B"
+        },
+        {
+          "Name": "Check",
+          "Hex": "F00C"
+        },
+        {
+          "Name": "Remove",
+          "Hex": "F00D"
+        },
+        {
+          "Name": "Close",
+          "Hex": "F00D"
+        },
+        {
+          "Name": "Times",
+          "Hex": "F00D"
+        },
+        {
+          "Name": "SearchPlus",
+          "Hex": "F00E"
+        },
+        {
+          "Name": "SearchMinus",
+          "Hex": "F010"
+        },
+        {
+          "Name": "PowerOff",
+          "Hex": "F011"
+        },
+        {
+          "Name": "Signal",
+          "Hex": "F012"
+        },
+        {
+          "Name": "Gear",
+          "Hex": "F013"
+        },
+        {
+          "Name": "Cog",
+          "Hex": "F013"
+        },
+        {
+          "Name": "TrashO",
+          "Hex": "F014"
+        },
+        {
+          "Name": "Home",
+          "Hex": "F015"
+        },
+        {
+          "Name": "FileO",
+          "Hex": "F016"
+        },
+        {
+          "Name": "ClockO",
+          "Hex": "F017"
+        },
+        {
+          "Name": "Road",
+          "Hex": "F018"
+        },
+        {
+          "Name": "Download",
+          "Hex": "F019"
+        },
+        {
+          "Name": "ArrowCircleODown",
+          "Hex": "F01A"
+        },
+        {
+          "Name": "ArrowCircleOUp",
+          "Hex": "F01B"
+        },
+        {
+          "Name": "Inbox",
+          "Hex": "F01C"
+        },
+        {
+          "Name": "PlayCircleO",
+          "Hex": "F01D"
+        },
+        {
+          "Name": "RotateRight",
+          "Hex": "F01E"
+        },
+        {
+          "Name": "Repeat",
+          "Hex": "F01E"
+        },
+        {
+          "Name": "Refresh",
+          "Hex": "F021"
+        },
+        {
+          "Name": "ListAlt",
+          "Hex": "F022"
+        },
+        {
+          "Name": "Lock",
+          "Hex": "F023"
+        },
+        {
+          "Name": "Flag",
+          "Hex": "F024"
+        },
+        {
+          "Name": "Headphones",
+          "Hex": "F025"
+        },
+        {
+          "Name": "VolumeOff",
+          "Hex": "F026"
+        },
+        {
+          "Name": "VolumeDown",
+          "Hex": "F027"
+        },
+        {
+          "Name": "VolumeUp",
+          "Hex": "F028"
+        },
+        {
+          "Name": "Qrcode",
+          "Hex": "F029"
+        },
+        {
+          "Name": "Barcode",
+          "Hex": "F02A"
+        },
+        {
+          "Name": "Tag",
+          "Hex": "F02B"
+        },
+        {
+          "Name": "Tags",
+          "Hex": "F02C"
+        },
+        {
+          "Name": "Book",
+          "Hex": "F02D"
+        },
+        {
+          "Name": "Bookmark",
+          "Hex": "F02E"
+        },
+        {
+          "Name": "Print",
+          "Hex": "F02F"
+        },
+        {
+          "Name": "Camera",
+          "Hex": "F030"
+        },
+        {
+          "Name": "Font",
+          "Hex": "F031"
+        },
+        {
+          "Name": "Bold",
+          "Hex": "F032"
+        },
+        {
+          "Name": "Italic",
+          "Hex": "F033"
+        },
+        {
+          "Name": "TextHeight",
+          "Hex": "F034"
+        },
+        {
+          "Name": "TextWidth",
+          "Hex": "F035"
+        },
+        {
+          "Name": "AlignLeft",
+          "Hex": "F036"
+        },
+        {
+          "Name": "AlignCenter",
+          "Hex": "F037"
+        },
+        {
+          "Name": "AlignRight",
+          "Hex": "F038"
+        },
+        {
+          "Name": "AlignJustify",
+          "Hex": "F039"
+        },
+        {
+          "Name": "List",
+          "Hex": "F03A"
+        },
+        {
+          "Name": "Dedent",
+          "Hex": "F03B"
+        },
+        {
+          "Name": "Outdent",
+          "Hex": "F03B"
+        },
+        {
+          "Name": "Indent",
+          "Hex": "F03C"
+        },
+        {
+          "Name": "VideoCamera",
+          "Hex": "F03D"
+        },
+        {
+          "Name": "Photo",
+          "Hex": "F03E"
+        },
+        {
+          "Name": "Image",
+          "Hex": "F03E"
+        },
+        {
+          "Name": "PictureO",
+          "Hex": "F03E"
+        },
+        {
+          "Name": "Pencil",
+          "Hex": "F040"
+        },
+        {
+          "Name": "MapMarker",
+          "Hex": "F041"
+        },
+        {
+          "Name": "Adjust",
+          "Hex": "F042"
+        },
+        {
+          "Name": "Tint",
+          "Hex": "F043"
+        },
+        {
+          "Name": "Edit",
+          "Hex": "F044"
+        },
+        {
+          "Name": "PencilSquareO",
+          "Hex": "F044"
+        },
+        {
+          "Name": "ShareSquareO",
+          "Hex": "F045"
+        },
+        {
+          "Name": "CheckSquareO",
+          "Hex": "F046"
+        },
+        {
+          "Name": "Arrows",
+          "Hex": "F047"
+        },
+        {
+          "Name": "StepBackward",
+          "Hex": "F048"
+        },
+        {
+          "Name": "FastBackward",
+          "Hex": "F049"
+        },
+        {
+          "Name": "Backward",
+          "Hex": "F04A"
+        },
+        {
+          "Name": "Play",
+          "Hex": "F04B"
+        },
+        {
+          "Name": "Pause",
+          "Hex": "F04C"
+        },
+        {
+          "Name": "Stop",
+          "Hex": "F04D"
+        },
+        {
+          "Name": "Forward",
+          "Hex": "F04E"
+        },
+        {
+          "Name": "FastForward",
+          "Hex": "F050"
+        },
+        {
+          "Name": "StepForward",
+          "Hex": "F051"
+        },
+        {
+          "Name": "Eject",
+          "Hex": "F052"
+        },
+        {
+          "Name": "ChevronLeft",
+          "Hex": "F053"
+        },
+        {
+          "Name": "ChevronRight",
+          "Hex": "F054"
+        },
+        {
+          "Name": "PlusCircle",
+          "Hex": "F055"
+        },
+        {
+          "Name": "MinusCircle",
+          "Hex": "F056"
+        },
+        {
+          "Name": "TimesCircle",
+          "Hex": "F057"
+        },
+        {
+          "Name": "CheckCircle",
+          "Hex": "F058"
+        },
+        {
+          "Name": "QuestionCircle",
+          "Hex": "F059"
+        },
+        {
+          "Name": "InfoCircle",
+          "Hex": "F05A"
+        },
+        {
+          "Name": "Crosshairs",
+          "Hex": "F05B"
+        },
+        {
+          "Name": "TimesCircleO",
+          "Hex": "F05C"
+        },
+        {
+          "Name": "CheckCircleO",
+          "Hex": "F05D"
+        },
+        {
+          "Name": "Ban",
+          "Hex": "F05E"
+        },
+        {
+          "Name": "ArrowLeft",
+          "Hex": "F060"
+        },
+        {
+          "Name": "ArrowRight",
+          "Hex": "F061"
+        },
+        {
+          "Name": "ArrowUp",
+          "Hex": "F062"
+        },
+        {
+          "Name": "ArrowDown",
+          "Hex": "F063"
+        },
+        {
+          "Name": "MailForward",
+          "Hex": "F064"
+        },
+        {
+          "Name": "Share",
+          "Hex": "F064"
+        },
+        {
+          "Name": "Expand",
+          "Hex": "F065"
+        },
+        {
+          "Name": "Compress",
+          "Hex": "F066"
+        },
+        {
+          "Name": "Plus",
+          "Hex": "F067"
+        },
+        {
+          "Name": "Minus",
+          "Hex": "F068"
+        },
+        {
+          "Name": "Asterisk",
+          "Hex": "F069"
+        },
+        {
+          "Name": "ExclamationCircle",
+          "Hex": "F06A"
+        },
+        {
+          "Name": "Gift",
+          "Hex": "F06B"
+        },
+        {
+          "Name": "Leaf",
+          "Hex": "F06C"
+        },
+        {
+          "Name": "Fire",
+          "Hex": "F06D"
+        },
+        {
+          "Name": "Eye",
+          "Hex": "F06E"
+        },
+        {
+          "Name": "EyeSlash",
+          "Hex": "F070"
+        },
+        {
+          "Name": "Warning",
+          "Hex": "F071"
+        },
+        {
+          "Name": "ExclamationTriangle",
+          "Hex": "F071"
+        },
+        {
+          "Name": "Plane",
+          "Hex": "F072"
+        },
+        {
+          "Name": "Calendar",
+          "Hex": "F073"
+        },
+        {
+          "Name": "Random",
+          "Hex": "F074"
+        },
+        {
+          "Name": "Comment",
+          "Hex": "F075"
+        },
+        {
+          "Name": "Magnet",
+          "Hex": "F076"
+        },
+        {
+          "Name": "ChevronUp",
+          "Hex": "F077"
+        },
+        {
+          "Name": "ChevronDown",
+          "Hex": "F078"
+        },
+        {
+          "Name": "Retweet",
+          "Hex": "F079"
+        },
+        {
+          "Name": "ShoppingCart",
+          "Hex": "F07A"
+        },
+        {
+          "Name": "Folder",
+          "Hex": "F07B"
+        },
+        {
+          "Name": "FolderOpen",
+          "Hex": "F07C"
+        },
+        {
+          "Name": "ArrowsV",
+          "Hex": "F07D"
+        },
+        {
+          "Name": "ArrowsH",
+          "Hex": "F07E"
+        },
+        {
+          "Name": "BarChartO",
+          "Hex": "F080"
+        },
+        {
+          "Name": "BarChart",
+          "Hex": "F080"
+        },
+        {
+          "Name": "TwitterSquare",
+          "Hex": "F081"
+        },
+        {
+          "Name": "FacebookSquare",
+          "Hex": "F082"
+        },
+        {
+          "Name": "CameraRetro",
+          "Hex": "F083"
+        },
+        {
+          "Name": "Key",
+          "Hex": "F084"
+        },
+        {
+          "Name": "Gears",
+          "Hex": "F085"
+        },
+        {
+          "Name": "Cogs",
+          "Hex": "F085"
+        },
+        {
+          "Name": "Comments",
+          "Hex": "F086"
+        },
+        {
+          "Name": "ThumbsOUp",
+          "Hex": "F087"
+        },
+        {
+          "Name": "ThumbsODown",
+          "Hex": "F088"
+        },
+        {
+          "Name": "StarHalf",
+          "Hex": "F089"
+        },
+        {
+          "Name": "HeartO",
+          "Hex": "F08A"
+        },
+        {
+          "Name": "SignOut",
+          "Hex": "F08B"
+        },
+        {
+          "Name": "LinkedinSquare",
+          "Hex": "F08C"
+        },
+        {
+          "Name": "ThumbTack",
+          "Hex": "F08D"
+        },
+        {
+          "Name": "ExternalLink",
+          "Hex": "F08E"
+        },
+        {
+          "Name": "SignIn",
+          "Hex": "F090"
+        },
+        {
+          "Name": "Trophy",
+          "Hex": "F091"
+        },
+        {
+          "Name": "GithubSquare",
+          "Hex": "F092"
+        },
+        {
+          "Name": "Upload",
+          "Hex": "F093"
+        },
+        {
+          "Name": "LemonO",
+          "Hex": "F094"
+        },
+        {
+          "Name": "Phone",
+          "Hex": "F095"
+        },
+        {
+          "Name": "SquareO",
+          "Hex": "F096"
+        },
+        {
+          "Name": "BookmarkO",
+          "Hex": "F097"
+        },
+        {
+          "Name": "PhoneSquare",
+          "Hex": "F098"
+        },
+        {
+          "Name": "Twitter",
+          "Hex": "F099"
+        },
+        {
+          "Name": "FacebookF",
+          "Hex": "F09A"
+        },
+        {
+          "Name": "Facebook",
+          "Hex": "F09A"
+        },
+        {
+          "Name": "Github",
+          "Hex": "F09B"
+        },
+        {
+          "Name": "Unlock",
+          "Hex": "F09C"
+        },
+        {
+          "Name": "CreditCard",
+          "Hex": "F09D"
+        },
+        {
+          "Name": "Feed",
+          "Hex": "F09E"
+        },
+        {
+          "Name": "Rss",
+          "Hex": "F09E"
+        },
+        {
+          "Name": "HddO",
+          "Hex": "F0A0"
+        },
+        {
+          "Name": "Bullhorn",
+          "Hex": "F0A1"
+        },
+        {
+          "Name": "Bell",
+          "Hex": "F0F3"
+        },
+        {
+          "Name": "Certificate",
+          "Hex": "F0A3"
+        },
+        {
+          "Name": "HandORight",
+          "Hex": "F0A4"
+        },
+        {
+          "Name": "HandOLeft",
+          "Hex": "F0A5"
+        },
+        {
+          "Name": "HandOUp",
+          "Hex": "F0A6"
+        },
+        {
+          "Name": "HandODown",
+          "Hex": "F0A7"
+        },
+        {
+          "Name": "ArrowCircleLeft",
+          "Hex": "F0A8"
+        },
+        {
+          "Name": "ArrowCircleRight",
+          "Hex": "F0A9"
+        },
+        {
+          "Name": "ArrowCircleUp",
+          "Hex": "F0AA"
+        },
+        {
+          "Name": "ArrowCircleDown",
+          "Hex": "F0AB"
+        },
+        {
+          "Name": "Globe",
+          "Hex": "F0AC"
+        },
+        {
+          "Name": "Wrench",
+          "Hex": "F0AD"
+        },
+        {
+          "Name": "Tasks",
+          "Hex": "F0AE"
+        },
+        {
+          "Name": "Filter",
+          "Hex": "F0B0"
+        },
+        {
+          "Name": "Briefcase",
+          "Hex": "F0B1"
+        },
+        {
+          "Name": "ArrowsAlt",
+          "Hex": "F0B2"
+        },
+        {
+          "Name": "Group",
+          "Hex": "F0C0"
+        },
+        {
+          "Name": "Users",
+          "Hex": "F0C0"
+        },
+        {
+          "Name": "Chain",
+          "Hex": "F0C1"
+        },
+        {
+          "Name": "Link",
+          "Hex": "F0C1"
+        },
+        {
+          "Name": "Cloud",
+          "Hex": "F0C2"
+        },
+        {
+          "Name": "Flask",
+          "Hex": "F0C3"
+        },
+        {
+          "Name": "Cut",
+          "Hex": "F0C4"
+        },
+        {
+          "Name": "Scissors",
+          "Hex": "F0C4"
+        },
+        {
+          "Name": "Copy",
+          "Hex": "F0C5"
+        },
+        {
+          "Name": "FilesO",
+          "Hex": "F0C5"
+        },
+        {
+          "Name": "Paperclip",
+          "Hex": "F0C6"
+        },
+        {
+          "Name": "Save",
+          "Hex": "F0C7"
+        },
+        {
+          "Name": "FloppyO",
+          "Hex": "F0C7"
+        },
+        {
+          "Name": "Square",
+          "Hex": "F0C8"
+        },
+        {
+          "Name": "Navicon",
+          "Hex": "F0C9"
+        },
+        {
+          "Name": "Reorder",
+          "Hex": "F0C9"
+        },
+        {
+          "Name": "Bars",
+          "Hex": "F0C9"
+        },
+        {
+          "Name": "ListUl",
+          "Hex": "F0CA"
+        },
+        {
+          "Name": "ListOl",
+          "Hex": "F0CB"
+        },
+        {
+          "Name": "Strikethrough",
+          "Hex": "F0CC"
+        },
+        {
+          "Name": "Underline",
+          "Hex": "F0CD"
+        },
+        {
+          "Name": "Table",
+          "Hex": "F0CE"
+        },
+        {
+          "Name": "Magic",
+          "Hex": "F0D0"
+        },
+        {
+          "Name": "Truck",
+          "Hex": "F0D1"
+        },
+        {
+          "Name": "Pinterest",
+          "Hex": "F0D2"
+        },
+        {
+          "Name": "PinterestSquare",
+          "Hex": "F0D3"
+        },
+        {
+          "Name": "GooglePlusSquare",
+          "Hex": "F0D4"
+        },
+        {
+          "Name": "GooglePlus",
+          "Hex": "F0D5"
+        },
+        {
+          "Name": "Money",
+          "Hex": "F0D6"
+        },
+        {
+          "Name": "CaretDown",
+          "Hex": "F0D7"
+        },
+        {
+          "Name": "CaretUp",
+          "Hex": "F0D8"
+        },
+        {
+          "Name": "CaretLeft",
+          "Hex": "F0D9"
+        },
+        {
+          "Name": "CaretRight",
+          "Hex": "F0DA"
+        },
+        {
+          "Name": "Columns",
+          "Hex": "F0DB"
+        },
+        {
+          "Name": "Unsorted",
+          "Hex": "F0DC"
+        },
+        {
+          "Name": "Sort",
+          "Hex": "F0DC"
+        },
+        {
+          "Name": "SortDown",
+          "Hex": "F0DD"
+        },
+        {
+          "Name": "SortDesc",
+          "Hex": "F0DD"
+        },
+        {
+          "Name": "SortUp",
+          "Hex": "F0DE"
+        },
+        {
+          "Name": "SortAsc",
+          "Hex": "F0DE"
+        },
+        {
+          "Name": "Envelope",
+          "Hex": "F0E0"
+        },
+        {
+          "Name": "Linkedin",
+          "Hex": "F0E1"
+        },
+        {
+          "Name": "RotateLeft",
+          "Hex": "F0E2"
+        },
+        {
+          "Name": "Undo",
+          "Hex": "F0E2"
+        },
+        {
+          "Name": "Legal",
+          "Hex": "F0E3"
+        },
+        {
+          "Name": "Gavel",
+          "Hex": "F0E3"
+        },
+        {
+          "Name": "Dashboard",
+          "Hex": "F0E4"
+        },
+        {
+          "Name": "Tachometer",
+          "Hex": "F0E4"
+        },
+        {
+          "Name": "CommentO",
+          "Hex": "F0E5"
+        },
+        {
+          "Name": "CommentsO",
+          "Hex": "F0E6"
+        },
+        {
+          "Name": "Flash",
+          "Hex": "F0E7"
+        },
+        {
+          "Name": "Bolt",
+          "Hex": "F0E7"
+        },
+        {
+          "Name": "Sitemap",
+          "Hex": "F0E8"
+        },
+        {
+          "Name": "Umbrella",
+          "Hex": "F0E9"
+        },
+        {
+          "Name": "Paste",
+          "Hex": "F0EA"
+        },
+        {
+          "Name": "Clipboard",
+          "Hex": "F0EA"
+        },
+        {
+          "Name": "LightbulbO",
+          "Hex": "F0EB"
+        },
+        {
+          "Name": "Exchange",
+          "Hex": "F0EC"
+        },
+        {
+          "Name": "CloudDownload",
+          "Hex": "F0ED"
+        },
+        {
+          "Name": "CloudUpload",
+          "Hex": "F0EE"
+        },
+        {
+          "Name": "UserMd",
+          "Hex": "F0F0"
+        },
+        {
+          "Name": "Stethoscope",
+          "Hex": "F0F1"
+        },
+        {
+          "Name": "Suitcase",
+          "Hex": "F0F2"
+        },
+        {
+          "Name": "BellO",
+          "Hex": "F0A2"
+        },
+        {
+          "Name": "Coffee",
+          "Hex": "F0F4"
+        },
+        {
+          "Name": "Cutlery",
+          "Hex": "F0F5"
+        },
+        {
+          "Name": "FileTextO",
+          "Hex": "F0F6"
+        },
+        {
+          "Name": "BuildingO",
+          "Hex": "F0F7"
+        },
+        {
+          "Name": "HospitalO",
+          "Hex": "F0F8"
+        },
+        {
+          "Name": "Ambulance",
+          "Hex": "F0F9"
+        },
+        {
+          "Name": "Medkit",
+          "Hex": "F0FA"
+        },
+        {
+          "Name": "FighterJet",
+          "Hex": "F0FB"
+        },
+        {
+          "Name": "Beer",
+          "Hex": "F0FC"
+        },
+        {
+          "Name": "HSquare",
+          "Hex": "F0FD"
+        },
+        {
+          "Name": "PlusSquare",
+          "Hex": "F0FE"
+        },
+        {
+          "Name": "AngleDoubleLeft",
+          "Hex": "F100"
+        },
+        {
+          "Name": "AngleDoubleRight",
+          "Hex": "F101"
+        },
+        {
+          "Name": "AngleDoubleUp",
+          "Hex": "F102"
+        },
+        {
+          "Name": "AngleDoubleDown",
+          "Hex": "F103"
+        },
+        {
+          "Name": "AngleLeft",
+          "Hex": "F104"
+        },
+        {
+          "Name": "AngleRight",
+          "Hex": "F105"
+        },
+        {
+          "Name": "AngleUp",
+          "Hex": "F106"
+        },
+        {
+          "Name": "AngleDown",
+          "Hex": "F107"
+        },
+        {
+          "Name": "Desktop",
+          "Hex": "F108"
+        },
+        {
+          "Name": "Laptop",
+          "Hex": "F109"
+        },
+        {
+          "Name": "Tablet",
+          "Hex": "F10A"
+        },
+        {
+          "Name": "MobilePhone",
+          "Hex": "F10B"
+        },
+        {
+          "Name": "Mobile",
+          "Hex": "F10B"
+        },
+        {
+          "Name": "CircleO",
+          "Hex": "F10C"
+        },
+        {
+          "Name": "QuoteLeft",
+          "Hex": "F10D"
+        },
+        {
+          "Name": "QuoteRight",
+          "Hex": "F10E"
+        },
+        {
+          "Name": "Spinner",
+          "Hex": "F110"
+        },
+        {
+          "Name": "Circle",
+          "Hex": "F111"
+        },
+        {
+          "Name": "MailReply",
+          "Hex": "F112"
+        },
+        {
+          "Name": "Reply",
+          "Hex": "F112"
+        },
+        {
+          "Name": "GithubAlt",
+          "Hex": "F113"
+        },
+        {
+          "Name": "FolderO",
+          "Hex": "F114"
+        },
+        {
+          "Name": "FolderOpenO",
+          "Hex": "F115"
+        },
+        {
+          "Name": "SmileO",
+          "Hex": "F118"
+        },
+        {
+          "Name": "FrownO",
+          "Hex": "F119"
+        },
+        {
+          "Name": "MehO",
+          "Hex": "F11A"
+        },
+        {
+          "Name": "Gamepad",
+          "Hex": "F11B"
+        },
+        {
+          "Name": "KeyboardO",
+          "Hex": "F11C"
+        },
+        {
+          "Name": "FlagO",
+          "Hex": "F11D"
+        },
+        {
+          "Name": "FlagCheckered",
+          "Hex": "F11E"
+        },
+        {
+          "Name": "Terminal",
+          "Hex": "F120"
+        },
+        {
+          "Name": "Code",
+          "Hex": "F121"
+        },
+        {
+          "Name": "MailReplyAll",
+          "Hex": "F122"
+        },
+        {
+          "Name": "ReplyAll",
+          "Hex": "F122"
+        },
+        {
+          "Name": "StarHalfEmpty",
+          "Hex": "F123"
+        },
+        {
+          "Name": "StarHalfFull",
+          "Hex": "F123"
+        },
+        {
+          "Name": "StarHalfO",
+          "Hex": "F123"
+        },
+        {
+          "Name": "LocationArrow",
+          "Hex": "F124"
+        },
+        {
+          "Name": "Crop",
+          "Hex": "F125"
+        },
+        {
+          "Name": "CodeFork",
+          "Hex": "F126"
+        },
+        {
+          "Name": "Unlink",
+          "Hex": "F127"
+        },
+        {
+          "Name": "ChainBroken",
+          "Hex": "F127"
+        },
+        {
+          "Name": "Question",
+          "Hex": "F128"
+        },
+        {
+          "Name": "Info",
+          "Hex": "F129"
+        },
+        {
+          "Name": "Exclamation",
+          "Hex": "F12A"
+        },
+        {
+          "Name": "Superscript",
+          "Hex": "F12B"
+        },
+        {
+          "Name": "Subscript",
+          "Hex": "F12C"
+        },
+        {
+          "Name": "Eraser",
+          "Hex": "F12D"
+        },
+        {
+          "Name": "PuzzlePiece",
+          "Hex": "F12E"
+        },
+        {
+          "Name": "Microphone",
+          "Hex": "F130"
+        },
+        {
+          "Name": "MicrophoneSlash",
+          "Hex": "F131"
+        },
+        {
+          "Name": "Shield",
+          "Hex": "F132"
+        },
+        {
+          "Name": "CalendarO",
+          "Hex": "F133"
+        },
+        {
+          "Name": "FireExtinguisher",
+          "Hex": "F134"
+        },
+        {
+          "Name": "Rocket",
+          "Hex": "F135"
+        },
+        {
+          "Name": "Maxcdn",
+          "Hex": "F136"
+        },
+        {
+          "Name": "ChevronCircleLeft",
+          "Hex": "F137"
+        },
+        {
+          "Name": "ChevronCircleRight",
+          "Hex": "F138"
+        },
+        {
+          "Name": "ChevronCircleUp",
+          "Hex": "F139"
+        },
+        {
+          "Name": "ChevronCircleDown",
+          "Hex": "F13A"
+        },
+        {
+          "Name": "Html",
+          "Hex": "F13B"
+        },
+        {
+          "Name": "Css",
+          "Hex": "F13C"
+        },
+        {
+          "Name": "Anchor",
+          "Hex": "F13D"
+        },
+        {
+          "Name": "UnlockAlt",
+          "Hex": "F13E"
+        },
+        {
+          "Name": "Bullseye",
+          "Hex": "F140"
+        },
+        {
+          "Name": "EllipsisH",
+          "Hex": "F141"
+        },
+        {
+          "Name": "EllipsisV",
+          "Hex": "F142"
+        },
+        {
+          "Name": "RssSquare",
+          "Hex": "F143"
+        },
+        {
+          "Name": "PlayCircle",
+          "Hex": "F144"
+        },
+        {
+          "Name": "Ticket",
+          "Hex": "F145"
+        },
+        {
+          "Name": "MinusSquare",
+          "Hex": "F146"
+        },
+        {
+          "Name": "MinusSquareO",
+          "Hex": "F147"
+        },
+        {
+          "Name": "LevelUp",
+          "Hex": "F148"
+        },
+        {
+          "Name": "LevelDown",
+          "Hex": "F149"
+        },
+        {
+          "Name": "CheckSquare",
+          "Hex": "F14A"
+        },
+        {
+          "Name": "PencilSquare",
+          "Hex": "F14B"
+        },
+        {
+          "Name": "ExternalLinkSquare",
+          "Hex": "F14C"
+        },
+        {
+          "Name": "ShareSquare",
+          "Hex": "F14D"
+        },
+        {
+          "Name": "Compass",
+          "Hex": "F14E"
+        },
+        {
+          "Name": "ToggleDown",
+          "Hex": "F150"
+        },
+        {
+          "Name": "CaretSquareODown",
+          "Hex": "F150"
+        },
+        {
+          "Name": "ToggleUp",
+          "Hex": "F151"
+        },
+        {
+          "Name": "CaretSquareOUp",
+          "Hex": "F151"
+        },
+        {
+          "Name": "ToggleRight",
+          "Hex": "F152"
+        },
+        {
+          "Name": "CaretSquareORight",
+          "Hex": "F152"
+        },
+        {
+          "Name": "Euro",
+          "Hex": "F153"
+        },
+        {
+          "Name": "Eur",
+          "Hex": "F153"
+        },
+        {
+          "Name": "Gbp",
+          "Hex": "F154"
+        },
+        {
+          "Name": "Dollar",
+          "Hex": "F155"
+        },
+        {
+          "Name": "Usd",
+          "Hex": "F155"
+        },
+        {
+          "Name": "Rupee",
+          "Hex": "F156"
+        },
+        {
+          "Name": "Inr",
+          "Hex": "F156"
+        },
+        {
+          "Name": "Cny",
+          "Hex": "F157"
+        },
+        {
+          "Name": "Rmb",
+          "Hex": "F157"
+        },
+        {
+          "Name": "Yen",
+          "Hex": "F157"
+        },
+        {
+          "Name": "Jpy",
+          "Hex": "F157"
+        },
+        {
+          "Name": "Ruble",
+          "Hex": "F158"
+        },
+        {
+          "Name": "Rouble",
+          "Hex": "F158"
+        },
+        {
+          "Name": "Rub",
+          "Hex": "F158"
+        },
+        {
+          "Name": "Won",
+          "Hex": "F159"
+        },
+        {
+          "Name": "Krw",
+          "Hex": "F159"
+        },
+        {
+          "Name": "Bitcoin",
+          "Hex": "F15A"
+        },
+        {
+          "Name": "Btc",
+          "Hex": "F15A"
+        },
+        {
+          "Name": "File",
+          "Hex": "F15B"
+        },
+        {
+          "Name": "FileText",
+          "Hex": "F15C"
+        },
+        {
+          "Name": "SortAlphaAsc",
+          "Hex": "F15D"
+        },
+        {
+          "Name": "SortAlphaDesc",
+          "Hex": "F15E"
+        },
+        {
+          "Name": "SortAmountAsc",
+          "Hex": "F160"
+        },
+        {
+          "Name": "SortAmountDesc",
+          "Hex": "F161"
+        },
+        {
+          "Name": "SortNumericAsc",
+          "Hex": "F162"
+        },
+        {
+          "Name": "SortNumericDesc",
+          "Hex": "F163"
+        },
+        {
+          "Name": "ThumbsUp",
+          "Hex": "F164"
+        },
+        {
+          "Name": "ThumbsDown",
+          "Hex": "F165"
+        },
+        {
+          "Name": "YoutubeSquare",
+          "Hex": "F166"
+        },
+        {
+          "Name": "Youtube",
+          "Hex": "F167"
+        },
+        {
+          "Name": "Xing",
+          "Hex": "F168"
+        },
+        {
+          "Name": "XingSquare",
+          "Hex": "F169"
+        },
+        {
+          "Name": "YoutubePlay",
+          "Hex": "F16A"
+        },
+        {
+          "Name": "Dropbox",
+          "Hex": "F16B"
+        },
+        {
+          "Name": "StackOverflow",
+          "Hex": "F16C"
+        },
+        {
+          "Name": "Instagram",
+          "Hex": "F16D"
+        },
+        {
+          "Name": "Flickr",
+          "Hex": "F16E"
+        },
+        {
+          "Name": "Adn",
+          "Hex": "F170"
+        },
+        {
+          "Name": "Bitbucket",
+          "Hex": "F171"
+        },
+        {
+          "Name": "BitbucketSquare",
+          "Hex": "F172"
+        },
+        {
+          "Name": "Tumblr",
+          "Hex": "F173"
+        },
+        {
+          "Name": "TumblrSquare",
+          "Hex": "F174"
+        },
+        {
+          "Name": "LongArrowDown",
+          "Hex": "F175"
+        },
+        {
+          "Name": "LongArrowUp",
+          "Hex": "F176"
+        },
+        {
+          "Name": "LongArrowLeft",
+          "Hex": "F177"
+        },
+        {
+          "Name": "LongArrowRight",
+          "Hex": "F178"
+        },
+        {
+          "Name": "Apple",
+          "Hex": "F179"
+        },
+        {
+          "Name": "Windows",
+          "Hex": "F17A"
+        },
+        {
+          "Name": "Android",
+          "Hex": "F17B"
+        },
+        {
+          "Name": "Linux",
+          "Hex": "F17C"
+        },
+        {
+          "Name": "Dribbble",
+          "Hex": "F17D"
+        },
+        {
+          "Name": "Skype",
+          "Hex": "F17E"
+        },
+        {
+          "Name": "Foursquare",
+          "Hex": "F180"
+        },
+        {
+          "Name": "Trello",
+          "Hex": "F181"
+        },
+        {
+          "Name": "Female",
+          "Hex": "F182"
+        },
+        {
+          "Name": "Male",
+          "Hex": "F183"
+        },
+        {
+          "Name": "Gittip",
+          "Hex": "F184"
+        },
+        {
+          "Name": "Gratipay",
+          "Hex": "F184"
+        },
+        {
+          "Name": "SunO",
+          "Hex": "F185"
+        },
+        {
+          "Name": "MoonO",
+          "Hex": "F186"
+        },
+        {
+          "Name": "Archive",
+          "Hex": "F187"
+        },
+        {
+          "Name": "Bug",
+          "Hex": "F188"
+        },
+        {
+          "Name": "Vk",
+          "Hex": "F189"
+        },
+        {
+          "Name": "Weibo",
+          "Hex": "F18A"
+        },
+        {
+          "Name": "Renren",
+          "Hex": "F18B"
+        },
+        {
+          "Name": "Pagelines",
+          "Hex": "F18C"
+        },
+        {
+          "Name": "StackExchange",
+          "Hex": "F18D"
+        },
+        {
+          "Name": "ArrowCircleORight",
+          "Hex": "F18E"
+        },
+        {
+          "Name": "ArrowCircleOLeft",
+          "Hex": "F190"
+        },
+        {
+          "Name": "ToggleLeft",
+          "Hex": "F191"
+        },
+        {
+          "Name": "CaretSquareOLeft",
+          "Hex": "F191"
+        },
+        {
+          "Name": "DotCircleO",
+          "Hex": "F192"
+        },
+        {
+          "Name": "Wheelchair",
+          "Hex": "F193"
+        },
+        {
+          "Name": "VimeoSquare",
+          "Hex": "F194"
+        },
+        {
+          "Name": "TurkishLira",
+          "Hex": "F195"
+        },
+        {
+          "Name": "Try",
+          "Hex": "F195"
+        },
+        {
+          "Name": "PlusSquareO",
+          "Hex": "F196"
+        },
+        {
+          "Name": "SpaceShuttle",
+          "Hex": "F197"
+        },
+        {
+          "Name": "Slack",
+          "Hex": "F198"
+        },
+        {
+          "Name": "EnvelopeSquare",
+          "Hex": "F199"
+        },
+        {
+          "Name": "Wordpress",
+          "Hex": "F19A"
+        },
+        {
+          "Name": "Openid",
+          "Hex": "F19B"
+        },
+        {
+          "Name": "Institution",
+          "Hex": "F19C"
+        },
+        {
+          "Name": "Bank",
+          "Hex": "F19C"
+        },
+        {
+          "Name": "University",
+          "Hex": "F19C"
+        },
+        {
+          "Name": "MortarBoard",
+          "Hex": "F19D"
+        },
+        {
+          "Name": "GraduationCap",
+          "Hex": "F19D"
+        },
+        {
+          "Name": "Yahoo",
+          "Hex": "F19E"
+        },
+        {
+          "Name": "Google",
+          "Hex": "F1A0"
+        },
+        {
+          "Name": "Reddit",
+          "Hex": "F1A1"
+        },
+        {
+          "Name": "RedditSquare",
+          "Hex": "F1A2"
+        },
+        {
+          "Name": "StumbleuponCircle",
+          "Hex": "F1A3"
+        },
+        {
+          "Name": "Stumbleupon",
+          "Hex": "F1A4"
+        },
+        {
+          "Name": "Delicious",
+          "Hex": "F1A5"
+        },
+        {
+          "Name": "Digg",
+          "Hex": "F1A6"
+        },
+        {
+          "Name": "PiedPiper",
+          "Hex": "F1A7"
+        },
+        {
+          "Name": "PiedPiperAlt",
+          "Hex": "F1A8"
+        },
+        {
+          "Name": "Drupal",
+          "Hex": "F1A9"
+        },
+        {
+          "Name": "Joomla",
+          "Hex": "F1AA"
+        },
+        {
+          "Name": "Language",
+          "Hex": "F1AB"
+        },
+        {
+          "Name": "Fax",
+          "Hex": "F1AC"
+        },
+        {
+          "Name": "Building",
+          "Hex": "F1AD"
+        },
+        {
+          "Name": "Child",
+          "Hex": "F1AE"
+        },
+        {
+          "Name": "Paw",
+          "Hex": "F1B0"
+        },
+        {
+          "Name": "Spoon",
+          "Hex": "F1B1"
+        },
+        {
+          "Name": "Cube",
+          "Hex": "F1B2"
+        },
+        {
+          "Name": "Cubes",
+          "Hex": "F1B3"
+        },
+        {
+          "Name": "Behance",
+          "Hex": "F1B4"
+        },
+        {
+          "Name": "BehanceSquare",
+          "Hex": "F1B5"
+        },
+        {
+          "Name": "Steam",
+          "Hex": "F1B6"
+        },
+        {
+          "Name": "SteamSquare",
+          "Hex": "F1B7"
+        },
+        {
+          "Name": "Recycle",
+          "Hex": "F1B8"
+        },
+        {
+          "Name": "Automobile",
+          "Hex": "F1B9"
+        },
+        {
+          "Name": "Car",
+          "Hex": "F1B9"
+        },
+        {
+          "Name": "Cab",
+          "Hex": "F1BA"
+        },
+        {
+          "Name": "Taxi",
+          "Hex": "F1BA"
+        },
+        {
+          "Name": "Tree",
+          "Hex": "F1BB"
+        },
+        {
+          "Name": "Spotify",
+          "Hex": "F1BC"
+        },
+        {
+          "Name": "Deviantart",
+          "Hex": "F1BD"
+        },
+        {
+          "Name": "Soundcloud",
+          "Hex": "F1BE"
+        },
+        {
+          "Name": "Database",
+          "Hex": "F1C0"
+        },
+        {
+          "Name": "FilePdfO",
+          "Hex": "F1C1"
+        },
+        {
+          "Name": "FileWordO",
+          "Hex": "F1C2"
+        },
+        {
+          "Name": "FileExcelO",
+          "Hex": "F1C3"
+        },
+        {
+          "Name": "FilePowerpointO",
+          "Hex": "F1C4"
+        },
+        {
+          "Name": "FilePhotoO",
+          "Hex": "F1C5"
+        },
+        {
+          "Name": "FilePictureO",
+          "Hex": "F1C5"
+        },
+        {
+          "Name": "FileImageO",
+          "Hex": "F1C5"
+        },
+        {
+          "Name": "FileZipO",
+          "Hex": "F1C6"
+        },
+        {
+          "Name": "FileArchiveO",
+          "Hex": "F1C6"
+        },
+        {
+          "Name": "FileSoundO",
+          "Hex": "F1C7"
+        },
+        {
+          "Name": "FileAudioO",
+          "Hex": "F1C7"
+        },
+        {
+          "Name": "FileMovieO",
+          "Hex": "F1C8"
+        },
+        {
+          "Name": "FileVideoO",
+          "Hex": "F1C8"
+        },
+        {
+          "Name": "FileCodeO",
+          "Hex": "F1C9"
+        },
+        {
+          "Name": "Vine",
+          "Hex": "F1CA"
+        },
+        {
+          "Name": "Codepen",
+          "Hex": "F1CB"
+        },
+        {
+          "Name": "Jsfiddle",
+          "Hex": "F1CC"
+        },
+        {
+          "Name": "LifeBouy",
+          "Hex": "F1CD"
+        },
+        {
+          "Name": "LifeBuoy",
+          "Hex": "F1CD"
+        },
+        {
+          "Name": "LifeSaver",
+          "Hex": "F1CD"
+        },
+        {
+          "Name": "Support",
+          "Hex": "F1CD"
+        },
+        {
+          "Name": "LifeRing",
+          "Hex": "F1CD"
+        },
+        {
+          "Name": "CircleONotch",
+          "Hex": "F1CE"
+        },
+        {
+          "Name": "Ra",
+          "Hex": "F1D0"
+        },
+        {
+          "Name": "Rebel",
+          "Hex": "F1D0"
+        },
+        {
+          "Name": "Ge",
+          "Hex": "F1D1"
+        },
+        {
+          "Name": "Empire",
+          "Hex": "F1D1"
+        },
+        {
+          "Name": "GitSquare",
+          "Hex": "F1D2"
+        },
+        {
+          "Name": "Git",
+          "Hex": "F1D3"
+        },
+        {
+          "Name": "YCombinatorSquare",
+          "Hex": "F1D4"
+        },
+        {
+          "Name": "YcSquare",
+          "Hex": "F1D4"
+        },
+        {
+          "Name": "HackerNews",
+          "Hex": "F1D4"
+        },
+        {
+          "Name": "TencentWeibo",
+          "Hex": "F1D5"
+        },
+        {
+          "Name": "Qq",
+          "Hex": "F1D6"
+        },
+        {
+          "Name": "Wechat",
+          "Hex": "F1D7"
+        },
+        {
+          "Name": "Weixin",
+          "Hex": "F1D7"
+        },
+        {
+          "Name": "Send",
+          "Hex": "F1D8"
+        },
+        {
+          "Name": "PaperPlane",
+          "Hex": "F1D8"
+        },
+        {
+          "Name": "SendO",
+          "Hex": "F1D9"
+        },
+        {
+          "Name": "PaperPlaneO",
+          "Hex": "F1D9"
+        },
+        {
+          "Name": "History",
+          "Hex": "F1DA"
+        },
+        {
+          "Name": "CircleThin",
+          "Hex": "F1DB"
+        },
+        {
+          "Name": "Header",
+          "Hex": "F1DC"
+        },
+        {
+          "Name": "Paragraph",
+          "Hex": "F1DD"
+        },
+        {
+          "Name": "Sliders",
+          "Hex": "F1DE"
+        },
+        {
+          "Name": "ShareAlt",
+          "Hex": "F1E0"
+        },
+        {
+          "Name": "ShareAltSquare",
+          "Hex": "F1E1"
+        },
+        {
+          "Name": "Bomb",
+          "Hex": "F1E2"
+        },
+        {
+          "Name": "SoccerBallO",
+          "Hex": "F1E3"
+        },
+        {
+          "Name": "FutbolO",
+          "Hex": "F1E3"
+        },
+        {
+          "Name": "Tty",
+          "Hex": "F1E4"
+        },
+        {
+          "Name": "Binoculars",
+          "Hex": "F1E5"
+        },
+        {
+          "Name": "Plug",
+          "Hex": "F1E6"
+        },
+        {
+          "Name": "Slideshare",
+          "Hex": "F1E7"
+        },
+        {
+          "Name": "Twitch",
+          "Hex": "F1E8"
+        },
+        {
+          "Name": "Yelp",
+          "Hex": "F1E9"
+        },
+        {
+          "Name": "NewspaperO",
+          "Hex": "F1EA"
+        },
+        {
+          "Name": "Wifi",
+          "Hex": "F1EB"
+        },
+        {
+          "Name": "Calculator",
+          "Hex": "F1EC"
+        },
+        {
+          "Name": "Paypal",
+          "Hex": "F1ED"
+        },
+        {
+          "Name": "GoogleWallet",
+          "Hex": "F1EE"
+        },
+        {
+          "Name": "CcVisa",
+          "Hex": "F1F0"
+        },
+        {
+          "Name": "CcMastercard",
+          "Hex": "F1F1"
+        },
+        {
+          "Name": "CcDiscover",
+          "Hex": "F1F2"
+        },
+        {
+          "Name": "CcAmex",
+          "Hex": "F1F3"
+        },
+        {
+          "Name": "CcPaypal",
+          "Hex": "F1F4"
+        },
+        {
+          "Name": "CcStripe",
+          "Hex": "F1F5"
+        },
+        {
+          "Name": "BellSlash",
+          "Hex": "F1F6"
+        },
+        {
+          "Name": "BellSlashO",
+          "Hex": "F1F7"
+        },
+        {
+          "Name": "Trash",
+          "Hex": "F1F8"
+        },
+        {
+          "Name": "Copyright",
+          "Hex": "F1F9"
+        },
+        {
+          "Name": "At",
+          "Hex": "F1FA"
+        },
+        {
+          "Name": "Eyedropper",
+          "Hex": "F1FB"
+        },
+        {
+          "Name": "PaintBrush",
+          "Hex": "F1FC"
+        },
+        {
+          "Name": "BirthdayCake",
+          "Hex": "F1FD"
+        },
+        {
+          "Name": "AreaChart",
+          "Hex": "F1FE"
+        },
+        {
+          "Name": "PieChart",
+          "Hex": "F200"
+        },
+        {
+          "Name": "LineChart",
+          "Hex": "F201"
+        },
+        {
+          "Name": "Lastfm",
+          "Hex": "F202"
+        },
+        {
+          "Name": "LastfmSquare",
+          "Hex": "F203"
+        },
+        {
+          "Name": "ToggleOff",
+          "Hex": "F204"
+        },
+        {
+          "Name": "ToggleOn",
+          "Hex": "F205"
+        },
+        {
+          "Name": "Bicycle",
+          "Hex": "F206"
+        },
+        {
+          "Name": "Bus",
+          "Hex": "F207"
+        },
+        {
+          "Name": "Ioxhost",
+          "Hex": "F208"
+        },
+        {
+          "Name": "Angellist",
+          "Hex": "F209"
+        },
+        {
+          "Name": "Cc",
+          "Hex": "F20A"
+        },
+        {
+          "Name": "Shekel",
+          "Hex": "F20B"
+        },
+        {
+          "Name": "Sheqel",
+          "Hex": "F20B"
+        },
+        {
+          "Name": "Ils",
+          "Hex": "F20B"
+        },
+        {
+          "Name": "Meanpath",
+          "Hex": "F20C"
+        },
+        {
+          "Name": "Buysellads",
+          "Hex": "F20D"
+        },
+        {
+          "Name": "Connectdevelop",
+          "Hex": "F20E"
+        },
+        {
+          "Name": "Dashcube",
+          "Hex": "F210"
+        },
+        {
+          "Name": "Forumbee",
+          "Hex": "F211"
+        },
+        {
+          "Name": "Leanpub",
+          "Hex": "F212"
+        },
+        {
+          "Name": "Sellsy",
+          "Hex": "F213"
+        },
+        {
+          "Name": "Shirtsinbulk",
+          "Hex": "F214"
+        },
+        {
+          "Name": "Simplybuilt",
+          "Hex": "F215"
+        },
+        {
+          "Name": "Skyatlas",
+          "Hex": "F216"
+        },
+        {
+          "Name": "CartPlus",
+          "Hex": "F217"
+        },
+        {
+          "Name": "CartArrowDown",
+          "Hex": "F218"
+        },
+        {
+          "Name": "Diamond",
+          "Hex": "F219"
+        },
+        {
+          "Name": "Ship",
+          "Hex": "F21A"
+        },
+        {
+          "Name": "UserSecret",
+          "Hex": "F21B"
+        },
+        {
+          "Name": "Motorcycle",
+          "Hex": "F21C"
+        },
+        {
+          "Name": "StreetView",
+          "Hex": "F21D"
+        },
+        {
+          "Name": "Heartbeat",
+          "Hex": "F21E"
+        },
+        {
+          "Name": "Venus",
+          "Hex": "F221"
+        },
+        {
+          "Name": "Mars",
+          "Hex": "F222"
+        },
+        {
+          "Name": "Mercury",
+          "Hex": "F223"
+        },
+        {
+          "Name": "Intersex",
+          "Hex": "F224"
+        },
+        {
+          "Name": "Transgender",
+          "Hex": "F224"
+        },
+        {
+          "Name": "TransgenderAlt",
+          "Hex": "F225"
+        },
+        {
+          "Name": "VenusDouble",
+          "Hex": "F226"
+        },
+        {
+          "Name": "MarsDouble",
+          "Hex": "F227"
+        },
+        {
+          "Name": "VenusMars",
+          "Hex": "F228"
+        },
+        {
+          "Name": "MarsStroke",
+          "Hex": "F229"
+        },
+        {
+          "Name": "MarsStrokeV",
+          "Hex": "F22A"
+        },
+        {
+          "Name": "MarsStrokeH",
+          "Hex": "F22B"
+        },
+        {
+          "Name": "Neuter",
+          "Hex": "F22C"
+        },
+        {
+          "Name": "Genderless",
+          "Hex": "F22D"
+        },
+        {
+          "Name": "FacebookOfficial",
+          "Hex": "F230"
+        },
+        {
+          "Name": "PinterestP",
+          "Hex": "F231"
+        },
+        {
+          "Name": "Whatsapp",
+          "Hex": "F232"
+        },
+        {
+          "Name": "Server",
+          "Hex": "F233"
+        },
+        {
+          "Name": "UserPlus",
+          "Hex": "F234"
+        },
+        {
+          "Name": "UserTimes",
+          "Hex": "F235"
+        },
+        {
+          "Name": "Hotel",
+          "Hex": "F236"
+        },
+        {
+          "Name": "Bed",
+          "Hex": "F236"
+        },
+        {
+          "Name": "Viacoin",
+          "Hex": "F237"
+        },
+        {
+          "Name": "Train",
+          "Hex": "F238"
+        },
+        {
+          "Name": "Subway",
+          "Hex": "F239"
+        },
+        {
+          "Name": "Medium",
+          "Hex": "F23A"
+        },
+        {
+          "Name": "Yc",
+          "Hex": "F23B"
+        },
+        {
+          "Name": "YCombinator",
+          "Hex": "F23B"
+        },
+        {
+          "Name": "OptinMonster",
+          "Hex": "F23C"
+        },
+        {
+          "Name": "Opencart",
+          "Hex": "F23D"
+        },
+        {
+          "Name": "Expeditedssl",
+          "Hex": "F23E"
+        },
+        {
+          "Name": "Battery",
+          "Hex": "F240"
+        },
+        {
+          "Name": "BatteryFull",
+          "Hex": "F240"
+        },
+        {
+          "Name": "Battery",
+          "Hex": "F241"
+        },
+        {
+          "Name": "BatteryThreeQuarters",
+          "Hex": "F241"
+        },
+        {
+          "Name": "Battery",
+          "Hex": "F242"
+        },
+        {
+          "Name": "BatteryHalf",
+          "Hex": "F242"
+        },
+        {
+          "Name": "Battery",
+          "Hex": "F243"
+        },
+        {
+          "Name": "BatteryQuarter",
+          "Hex": "F243"
+        },
+        {
+          "Name": "Battery",
+          "Hex": "F244"
+        },
+        {
+          "Name": "BatteryEmpty",
+          "Hex": "F244"
+        },
+        {
+          "Name": "MousePointer",
+          "Hex": "F245"
+        },
+        {
+          "Name": "ICursor",
+          "Hex": "F246"
+        },
+        {
+          "Name": "ObjectGroup",
+          "Hex": "F247"
+        },
+        {
+          "Name": "ObjectUngroup",
+          "Hex": "F248"
+        },
+        {
+          "Name": "StickyNote",
+          "Hex": "F249"
+        },
+        {
+          "Name": "StickyNoteO",
+          "Hex": "F24A"
+        },
+        {
+          "Name": "CcJcb",
+          "Hex": "F24B"
+        },
+        {
+          "Name": "CcDinersClub",
+          "Hex": "F24C"
+        },
+        {
+          "Name": "Clone",
+          "Hex": "F24D"
+        },
+        {
+          "Name": "BalanceScale",
+          "Hex": "F24E"
+        },
+        {
+          "Name": "HourglassO",
+          "Hex": "F250"
+        },
+        {
+          "Name": "Hourglass",
+          "Hex": "F251"
+        },
+        {
+          "Name": "HourglassStart",
+          "Hex": "F251"
+        },
+        {
+          "Name": "Hourglass",
+          "Hex": "F252"
+        },
+        {
+          "Name": "HourglassHalf",
+          "Hex": "F252"
+        },
+        {
+          "Name": "Hourglass",
+          "Hex": "F253"
+        },
+        {
+          "Name": "HourglassEnd",
+          "Hex": "F253"
+        },
+        {
+          "Name": "Hourglass",
+          "Hex": "F254"
+        },
+        {
+          "Name": "HandGrabO",
+          "Hex": "F255"
+        },
+        {
+          "Name": "HandRockO",
+          "Hex": "F255"
+        },
+        {
+          "Name": "HandStopO",
+          "Hex": "F256"
+        },
+        {
+          "Name": "HandPaperO",
+          "Hex": "F256"
+        },
+        {
+          "Name": "HandScissorsO",
+          "Hex": "F257"
+        },
+        {
+          "Name": "HandLizardO",
+          "Hex": "F258"
+        },
+        {
+          "Name": "HandSpockO",
+          "Hex": "F259"
+        },
+        {
+          "Name": "HandPointerO",
+          "Hex": "F25A"
+        },
+        {
+          "Name": "HandPeaceO",
+          "Hex": "F25B"
+        },
+        {
+          "Name": "Trademark",
+          "Hex": "F25C"
+        },
+        {
+          "Name": "Registered",
+          "Hex": "F25D"
+        },
+        {
+          "Name": "CreativeCommons",
+          "Hex": "F25E"
+        },
+        {
+          "Name": "Gg",
+          "Hex": "F260"
+        },
+        {
+          "Name": "GgCircle",
+          "Hex": "F261"
+        },
+        {
+          "Name": "Tripadvisor",
+          "Hex": "F262"
+        },
+        {
+          "Name": "Odnoklassniki",
+          "Hex": "F263"
+        },
+        {
+          "Name": "OdnoklassnikiSquare",
+          "Hex": "F264"
+        },
+        {
+          "Name": "GetPocket",
+          "Hex": "F265"
+        },
+        {
+          "Name": "WikipediaW",
+          "Hex": "F266"
+        },
+        {
+          "Name": "Safari",
+          "Hex": "F267"
+        },
+        {
+          "Name": "Chrome",
+          "Hex": "F268"
+        },
+        {
+          "Name": "Firefox",
+          "Hex": "F269"
+        },
+        {
+          "Name": "Opera",
+          "Hex": "F26A"
+        },
+        {
+          "Name": "InternetExplorer",
+          "Hex": "F26B"
+        },
+        {
+          "Name": "Tv",
+          "Hex": "F26C"
+        },
+        {
+          "Name": "Television",
+          "Hex": "F26C"
+        },
+        {
+          "Name": "Contao",
+          "Hex": "F26D"
+        },
+        {
+          "Name": "Px",
+          "Hex": "F26E"
+        },
+        {
+          "Name": "Amazon",
+          "Hex": "F270"
+        },
+        {
+          "Name": "CalendarPlusO",
+          "Hex": "F271"
+        },
+        {
+          "Name": "CalendarMinusO",
+          "Hex": "F272"
+        },
+        {
+          "Name": "CalendarTimesO",
+          "Hex": "F273"
+        },
+        {
+          "Name": "CalendarCheckO",
+          "Hex": "F274"
+        },
+        {
+          "Name": "Industry",
+          "Hex": "F275"
+        },
+        {
+          "Name": "MapPin",
+          "Hex": "F276"
+        },
+        {
+          "Name": "MapSigns",
+          "Hex": "F277"
+        },
+        {
+          "Name": "MapO",
+          "Hex": "F278"
+        },
+        {
+          "Name": "Map",
+          "Hex": "F279"
+        },
+        {
+          "Name": "Commenting",
+          "Hex": "F27A"
+        },
+        {
+          "Name": "CommentingO",
+          "Hex": "F27B"
+        },
+        {
+          "Name": "Houzz",
+          "Hex": "F27C"
+        },
+        {
+          "Name": "Vimeo",
+          "Hex": "F27D"
+        },
+        {
+          "Name": "BlackTie",
+          "Hex": "F27E"
+        },
+        {
+          "Name": "Fonticons",
+          "Hex": "F280"
+        }
       ]
     }
   ]

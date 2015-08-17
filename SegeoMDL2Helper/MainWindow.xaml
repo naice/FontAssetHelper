@@ -11,7 +11,7 @@
     <Window.Resources>
         <Style x:Key="SymbolTextBlockStyle" TargetType="TextBlock">
             <Setter Property="FontSize" Value="{Binding FontInfo.FontSize}"/>
-            <Setter Property="FontFamily" Value="{Binding FontInfo.FontFamily}"/>
+            <Setter Property="FontFamily" Value="{Binding FontInfo.XFont}"/>
         </Style>
         
         <ContextMenu x:Key="AssetItemContextMenu">
@@ -73,8 +73,8 @@
                     <Border Background="Beige" Margin="10" Width="128" Height="128" ContextMenuService.ContextMenu="{StaticResource AssetItemContextMenu}">
                         <Grid Margin="10">
                             <Grid.RowDefinitions>
-                                <RowDefinition />
                                 <RowDefinition Height="Auto"/>
+                                <RowDefinition />
                                 <RowDefinition Height="Auto"/>
                             </Grid.RowDefinitions>
                             <TextBlock Grid.Row="0" Text="{Binding Name, Mode=OneWay}" />
