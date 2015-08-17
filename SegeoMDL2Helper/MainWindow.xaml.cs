@@ -108,5 +108,28 @@ namespace FontAssetHelper
                 putclipboard("{StaticResource " + fontInfos.CurrentFontInfo.ResourcePrefix + dat.Name + "}");
             }
         }
+
+
+        const string FMT_RESOURCE_DICTIONARY =
+@"<ResourceDictionary xmlns=""http://schemas.microsoft.com/winfx/2006/xaml/presentation""
+                    xmlns:x=""http://schemas.microsoft.com/winfx/2006/xaml""
+                    xmlns:System=""clr-namespace:System;assembly=mscorlib"">{0}
+</ResourceDictionary>";
+        const string FMT_RESOURCE_ENTRY =
+@"
+    <System:String x:Key=""{0}"">{1}</System:String>";
+        private void CopyResourceDictionary(object sender, RoutedEventArgs e)
+        {
+            if (fontInfos.CurrentFontInfo != null)
+            {
+                var fntInfo = fontInfos.CurrentFontInfo;
+                StringBuilder sb = new StringBuilder();
+                foreach (var item in fntInfo.Symbols)
+                {
+                    sb.AppendFormat(FMT_RESOURCE_ENTRY, fntInfo.ResourcePrefix + item.Name, item.XamlMarkup);
+                }
+                putclipboard(string.Format(FMT_RESOURCE_DICTIONARY, sb.ToString()));
+            }
+        }
     }
 }

@@ -87,6 +87,12 @@
         </ListBox>
 
         <Grid Grid.Row="2">
+
+            <StackPanel Margin="10" Orientation="Horizontal" HorizontalAlignment="Right">
+
+                <Button Content="Copy ResourceDictionary" Click="CopyResourceDictionary"/>
+                
+            </StackPanel>
             
         </Grid>        
     </Grid>
