@@ -1,0 +1,1982 @@
+﻿{
+  "Data": [
+    {
+      "FontFamily": "Segoe MDL2 Assets",
+      "FriendlyName": "Segoe MDL2 Assets",
+      "ResourcePrefix": "MDL2_",
+      "FontSize": 60,
+      "Symbols": [
+        {
+          "Name": "Account",
+          "Hex": "EA8C"
+        },
+        {
+          "Name": "AccountBox",
+          "Hex": "E187"
+        },
+        {
+          "Name": "AccountCancel",
+          "Hex": "E1E0"
+        },
+        {
+          "Name": "AccountDetailsOutline",
+          "Hex": "E136"
+        },
+        {
+          "Name": "AccountFrameOutline",
+          "Hex": "E156"
+        },
+        {
+          "Name": "AccountMultiple",
+          "Hex": "E125"
+        },
+        {
+          "Name": "AccountOutline",
+          "Hex": "E13D"
+        },
+        {
+          "Name": "AccountOutlineBox",
+          "Hex": "E8D4"
+        },
+        {
+          "Name": "AccountPlus",
+          "Hex": "E1E2"
+        },
+        {
+          "Name": "AccountStatus",
+          "Hex": "E181"
+        },
+        {
+          "Name": "AccountSwitch",
+          "Hex": "E748"
+        },
+        {
+          "Name": "Airplane",
+          "Hex": "EB4C"
+        },
+        {
+          "Name": "AirplaneOutline",
+          "Hex": "E709"
+        },
+        {
+          "Name": "Album",
+          "Hex": "E142"
+        },
+        {
+          "Name": "Alert",
+          "Hex": "E814"
+        },
+        {
+          "Name": "AlertOutline",
+          "Hex": "E7BA"
+        },
+        {
+          "Name": "Archive",
+          "Hex": "E7B8"
+        },
+        {
+          "Name": "Arrow",
+          "Hex": "E1D1"
+        },
+        {
+          "Name": "ArrowBottomRight",
+          "Hex": "E741"
+        },
+        {
+          "Name": "ArrowDown",
+          "Hex": "E1FD"
+        },
+        {
+          "Name": "ArrowLeft",
+          "Hex": "E0A6"
+        },
+        {
+          "Name": "ArrowRight",
+          "Hex": "E0AD"
+        },
+        {
+          "Name": "ArrowTopLeft",
+          "Hex": "E742"
+        },
+        {
+          "Name": "ArrowUp",
+          "Hex": "E110"
+        },
+        {
+          "Name": "ArrowUpVariant",
+          "Hex": "E752"
+        },
+        {
+          "Name": "Attach",
+          "Hex": "E16C"
+        },
+        {
+          "Name": "Bag",
+          "Hex": "E14D"
+        },
+        {
+          "Name": "Battery0",
+          "Hex": "E850"
+        },
+        {
+          "Name": "Battery1",
+          "Hex": "E851"
+        },
+        {
+          "Name": "Battery10",
+          "Hex": "E83F"
+        },
+        {
+          "Name": "Battery2",
+          "Hex": "E852"
+        },
+        {
+          "Name": "Battery3",
+          "Hex": "E853"
+        },
+        {
+          "Name": "Battery4",
+          "Hex": "E854"
+        },
+        {
+          "Name": "Battery5",
+          "Hex": "E855"
+        },
+        {
+          "Name": "Battery6",
+          "Hex": "E856"
+        },
+        {
+          "Name": "Battery7",
+          "Hex": "E857"
+        },
+        {
+          "Name": "Battery8",
+          "Hex": "E858"
+        },
+        {
+          "Name": "Battery9",
+          "Hex": "E859"
+        },
+        {
+          "Name": "BatteryCharge0",
+          "Hex": "E85A"
+        },
+        {
+          "Name": "BatteryCharge1",
+          "Hex": "E85B"
+        },
+        {
+          "Name": "BatteryCharge2",
+          "Hex": "E85C"
+        },
+        {
+          "Name": "BatteryCharge3",
+          "Hex": "E85D"
+        },
+        {
+          "Name": "BatteryCharge4",
+          "Hex": "E85E"
+        },
+        {
+          "Name": "BatteryCharge5",
+          "Hex": "E85F"
+        },
+        {
+          "Name": "BatteryCharge6",
+          "Hex": "E860"
+        },
+        {
+          "Name": "BatteryCharge7",
+          "Hex": "E861"
+        },
+        {
+          "Name": "BatteryCharge8",
+          "Hex": "E862"
+        },
+        {
+          "Name": "BatteryDisconnect",
+          "Hex": "E996"
+        },
+        {
+          "Name": "BatteryLarge0",
+          "Hex": "EBA0"
+        },
+        {
+          "Name": "BatteryLarge1",
+          "Hex": "EBA1"
+        },
+        {
+          "Name": "BatteryLarge10",
+          "Hex": "EBAA"
+        },
+        {
+          "Name": "BatteryLarge2",
+          "Hex": "EBA2"
+        },
+        {
+          "Name": "BatteryLarge3",
+          "Hex": "EBA3"
+        },
+        {
+          "Name": "BatteryLarge4",
+          "Hex": "EBA4"
+        },
+        {
+          "Name": "BatteryLarge5",
+          "Hex": "EBA5"
+        },
+        {
+          "Name": "BatteryLarge6",
+          "Hex": "EBA6"
+        },
+        {
+          "Name": "BatteryLarge7",
+          "Hex": "EBA7"
+        },
+        {
+          "Name": "BatteryLarge8",
+          "Hex": "EBA8"
+        },
+        {
+          "Name": "BatteryLarge9",
+          "Hex": "EBA9"
+        },
+        {
+          "Name": "BatteryLargeCharge0",
+          "Hex": "EBAB"
+        },
+        {
+          "Name": "BatteryLargeCharge1",
+          "Hex": "EBAC"
+        },
+        {
+          "Name": "BatteryLargeCharge10",
+          "Hex": "EBB5"
+        },
+        {
+          "Name": "BatteryLargeCharge2",
+          "Hex": "EBAD"
+        },
+        {
+          "Name": "BatteryLargeCharge3",
+          "Hex": "EBAE"
+        },
+        {
+          "Name": "BatteryLargeCharge4",
+          "Hex": "EBAF"
+        },
+        {
+          "Name": "BatteryLargeCharge5",
+          "Hex": "EBB0"
+        },
+        {
+          "Name": "BatteryLargeCharge6",
+          "Hex": "EBB1"
+        },
+        {
+          "Name": "BatteryLargeCharge7",
+          "Hex": "EBB2"
+        },
+        {
+          "Name": "BatteryLargeCharge8",
+          "Hex": "EBB3"
+        },
+        {
+          "Name": "BatteryLargeCharge9",
+          "Hex": "EBB4"
+        },
+        {
+          "Name": "BatteryLargeSave0",
+          "Hex": "EBB6"
+        },
+        {
+          "Name": "BatteryLargeSave1",
+          "Hex": "EBB7"
+        },
+        {
+          "Name": "BatteryLargeSave10",
+          "Hex": "EBC0"
+        },
+        {
+          "Name": "BatteryLargeSave2",
+          "Hex": "EBB8"
+        },
+        {
+          "Name": "BatteryLargeSave3",
+          "Hex": "EBB9"
+        },
+        {
+          "Name": "BatteryLargeSave4",
+          "Hex": "EBBA"
+        },
+        {
+          "Name": "BatteryLargeSave5",
+          "Hex": "EBBB"
+        },
+        {
+          "Name": "BatteryLargeSave6",
+          "Hex": "EBBC"
+        },
+        {
+          "Name": "BatteryLargeSave7",
+          "Hex": "EBBD"
+        },
+        {
+          "Name": "BatteryLargeSave8",
+          "Hex": "EBBE"
+        },
+        {
+          "Name": "BatteryLargeSave9",
+          "Hex": "EBBF"
+        },
+        {
+          "Name": "BatterySave0",
+          "Hex": "E863"
+        },
+        {
+          "Name": "BatterySave1",
+          "Hex": "E864"
+        },
+        {
+          "Name": "BatterySave2",
+          "Hex": "E865"
+        },
+        {
+          "Name": "BatterySave3",
+          "Hex": "E866"
+        },
+        {
+          "Name": "BatterySave4",
+          "Hex": "E867"
+        },
+        {
+          "Name": "BatterySave5",
+          "Hex": "E868"
+        },
+        {
+          "Name": "BatterySave6",
+          "Hex": "E869"
+        },
+        {
+          "Name": "BatterySave7",
+          "Hex": "E86A"
+        },
+        {
+          "Name": "BatterySave8",
+          "Hex": "E86B"
+        },
+        {
+          "Name": "BellOffOutline",
+          "Hex": "E7ED"
+        },
+        {
+          "Name": "BellOutline",
+          "Hex": "EA8F"
+        },
+        {
+          "Name": "Bluetooth",
+          "Hex": "E702"
+        },
+        {
+          "Name": "Boat",
+          "Hex": "EB48"
+        },
+        {
+          "Name": "BoatOutline",
+          "Hex": "E7E3"
+        },
+        {
+          "Name": "Book",
+          "Hex": "E82D"
+        },
+        {
+          "Name": "BookPlus",
+          "Hex": "E82E"
+        },
+        {
+          "Name": "BoxFourth",
+          "Hex": "E744"
+        },
+        {
+          "Name": "BoxFull",
+          "Hex": "E747"
+        },
+        {
+          "Name": "BoxHalfHorizontal",
+          "Hex": "E745"
+        },
+        {
+          "Name": "BoxHalfVertical",
+          "Hex": "E746"
+        },
+        {
+          "Name": "BoxSixteenth",
+          "Hex": "E743"
+        },
+        {
+          "Name": "BoxSmall",
+          "Hex": "E004"
+        },
+        {
+          "Name": "Bus",
+          "Hex": "EB47"
+        },
+        {
+          "Name": "BusOutline",
+          "Hex": "E806"
+        },
+        {
+          "Name": "Calculator",
+          "Hex": "E1D0"
+        },
+        {
+          "Name": "Calendar",
+          "Hex": "E163"
+        },
+        {
+          "Name": "CalendarDay",
+          "Hex": "E184"
+        },
+        {
+          "Name": "CalendarRepeat",
+          "Hex": "E161"
+        },
+        {
+          "Name": "CalendarReply",
+          "Hex": "E1DB"
+        },
+        {
+          "Name": "CalendarWeeks",
+          "Hex": "E162"
+        },
+        {
+          "Name": "Camera",
+          "Hex": "E114"
+        },
+        {
+          "Name": "CameraClicker",
+          "Hex": "E12D"
+        },
+        {
+          "Name": "CameraSwitch",
+          "Hex": "E124"
+        },
+        {
+          "Name": "Cancel",
+          "Hex": "E25B"
+        },
+        {
+          "Name": "Car",
+          "Hex": "E7EC"
+        },
+        {
+          "Name": "CarLeftOutline",
+          "Hex": "E811"
+        },
+        {
+          "Name": "CarRightOutline",
+          "Hex": "EA5E"
+        },
+        {
+          "Name": "CarSide",
+          "Hex": "EA8B"
+        },
+        {
+          "Name": "Cd",
+          "Hex": "E958"
+        },
+        {
+          "Name": "Cellphone",
+          "Hex": "E1C9"
+        },
+        {
+          "Name": "CellphoneTablet",
+          "Hex": "E8CC"
+        },
+        {
+          "Name": "CellphoneWireless",
+          "Hex": "E957"
+        },
+        {
+          "Name": "Check",
+          "Hex": "E001"
+        },
+        {
+          "Name": "CheckboxBlank",
+          "Hex": "E002"
+        },
+        {
+          "Name": "CheckboxBlankOutline",
+          "Hex": "E003"
+        },
+        {
+          "Name": "CheckboxCheck",
+          "Hex": "E005"
+        },
+        {
+          "Name": "CheckOutlineCheck",
+          "Hex": "E0A2"
+        },
+        {
+          "Name": "ChevronBoldDown",
+          "Hex": "E96E"
+        },
+        {
+          "Name": "ChevronBoldLeft",
+          "Hex": "E96F"
+        },
+        {
+          "Name": "ChevronBoldRight",
+          "Hex": "E970"
+        },
+        {
+          "Name": "ChevronBoldUp",
+          "Hex": "E96D"
+        },
+        {
+          "Name": "ChevronDown",
+          "Hex": "E011"
+        },
+        {
+          "Name": "ChevronLeft",
+          "Hex": "E00E"
+        },
+        {
+          "Name": "ChevronLeftCircle",
+          "Hex": "E760"
+        },
+        {
+          "Name": "ChevronRight",
+          "Hex": "E00F"
+        },
+        {
+          "Name": "ChevronRightCircle",
+          "Hex": "E761"
+        },
+        {
+          "Name": "ChevronUp",
+          "Hex": "E010"
+        },
+        {
+          "Name": "Chip",
+          "Hex": "E964"
+        },
+        {
+          "Name": "Clear",
+          "Hex": "E750"
+        },
+        {
+          "Name": "ClearSmall",
+          "Hex": "E925"
+        },
+        {
+          "Name": "Clipboard",
+          "Hex": "E77F"
+        },
+        {
+          "Name": "Clock",
+          "Hex": "E121"
+        },
+        {
+          "Name": "Close",
+          "Hex": "E106"
+        },
+        {
+          "Name": "ClosedCaption",
+          "Hex": "E190"
+        },
+        {
+          "Name": "Cloud",
+          "Hex": "E753"
+        },
+        {
+          "Name": "Compare",
+          "Hex": "E11E"
+        },
+        {
+          "Name": "Computer",
+          "Hex": "E211"
+        },
+        {
+          "Name": "ComputerTheme",
+          "Hex": "E771"
+        },
+        {
+          "Name": "Cone",
+          "Hex": "E98F"
+        },
+        {
+          "Name": "Console",
+          "Hex": "E756"
+        },
+        {
+          "Name": "Contact",
+          "Hex": "E12A"
+        },
+        {
+          "Name": "ContactSend",
+          "Hex": "E1D7"
+        },
+        {
+          "Name": "Controller",
+          "Hex": "E7FC"
+        },
+        {
+          "Name": "Crop",
+          "Hex": "E123"
+        },
+        {
+          "Name": "Cursor",
+          "Hex": "E1E3"
+        },
+        {
+          "Name": "CursorDefault",
+          "Hex": "E8B0"
+        },
+        {
+          "Name": "Delete",
+          "Hex": "E107"
+        },
+        {
+          "Name": "Dialer",
+          "Hex": "E75F"
+        },
+        {
+          "Name": "Diamond",
+          "Hex": "E18A"
+        },
+        {
+          "Name": "Direction",
+          "Hex": "E816"
+        },
+        {
+          "Name": "Disk",
+          "Hex": "E105"
+        },
+        {
+          "Name": "DiskAll",
+          "Hex": "EA35"
+        },
+        {
+          "Name": "DiskDownload",
+          "Hex": "E159"
+        },
+        {
+          "Name": "DiskEdit",
+          "Hex": "E28F"
+        },
+        {
+          "Name": "Divide",
+          "Hex": "E94A"
+        },
+        {
+          "Name": "Doppler",
+          "Hex": "E95A"
+        },
+        {
+          "Name": "DotsHorizontal",
+          "Hex": "E10C"
+        },
+        {
+          "Name": "DotsVertical",
+          "Hex": "E796"
+        },
+        {
+          "Name": "Download",
+          "Hex": "E118"
+        },
+        {
+          "Name": "EaseOfAccess",
+          "Hex": "E07F"
+        },
+        {
+          "Name": "Edit",
+          "Hex": "E104"
+        },
+        {
+          "Name": "Education",
+          "Hex": "E7BE"
+        },
+        {
+          "Name": "Email",
+          "Hex": "E119"
+        },
+        {
+          "Name": "EmailAddress",
+          "Hex": "E168"
+        },
+        {
+          "Name": "EmailForward",
+          "Hex": "E120"
+        },
+        {
+          "Name": "EmailForwardRtl",
+          "Hex": "E1A8"
+        },
+        {
+          "Name": "EmailOpened",
+          "Hex": "E166"
+        },
+        {
+          "Name": "EmailReply",
+          "Hex": "E172"
+        },
+        {
+          "Name": "EmailReplyall",
+          "Hex": "E165"
+        },
+        {
+          "Name": "EmailReplyallRtl",
+          "Hex": "E1F2"
+        },
+        {
+          "Name": "EmailReplyRtl",
+          "Hex": "E1AF"
+        },
+        {
+          "Name": "Emoji",
+          "Hex": "E170"
+        },
+        {
+          "Name": "EmojiGrin",
+          "Hex": "E11D"
+        },
+        {
+          "Name": "Equal",
+          "Hex": "E94E"
+        },
+        {
+          "Name": "Eraser",
+          "Hex": "E75C"
+        },
+        {
+          "Name": "EraserColor1",
+          "Hex": "E82B"
+        },
+        {
+          "Name": "EraserColor2",
+          "Hex": "E82C"
+        },
+        {
+          "Name": "Exclamation",
+          "Hex": "E171"
+        },
+        {
+          "Name": "File",
+          "Hex": "E132"
+        },
+        {
+          "Name": "FileHiddenOutline",
+          "Hex": "E295"
+        },
+        {
+          "Name": "FileMultiple",
+          "Hex": "E16F"
+        },
+        {
+          "Name": "FileOutline",
+          "Hex": "E160"
+        },
+        {
+          "Name": "FileOutlineUp",
+          "Hex": "E8E5"
+        },
+        {
+          "Name": "FilePrinterOutline",
+          "Hex": "E956"
+        },
+        {
+          "Name": "Filter",
+          "Hex": "E16E"
+        },
+        {
+          "Name": "Fingerprint",
+          "Hex": "E928"
+        },
+        {
+          "Name": "Firewall",
+          "Hex": "E83D"
+        },
+        {
+          "Name": "Flag",
+          "Hex": "EB4F"
+        },
+        {
+          "Name": "FlagOutline",
+          "Hex": "EB50"
+        },
+        {
+          "Name": "Flash",
+          "Hex": "E945"
+        },
+        {
+          "Name": "Flashlight",
+          "Hex": "E754"
+        },
+        {
+          "Name": "Folder",
+          "Hex": "E188"
+        },
+        {
+          "Name": "FolderMove",
+          "Hex": "E19C"
+        },
+        {
+          "Name": "FolderOutline",
+          "Hex": "E8B7"
+        },
+        {
+          "Name": "FolderPlus",
+          "Hex": "E1DA"
+        },
+        {
+          "Name": "FolderRefresh",
+          "Hex": "E1DF"
+        },
+        {
+          "Name": "FolderRefreshCancel",
+          "Hex": "E1DD"
+        },
+        {
+          "Name": "FolderUp",
+          "Hex": "E197"
+        },
+        {
+          "Name": "FormatBlockLeftDecrease",
+          "Hex": "E290"
+        },
+        {
+          "Name": "FormatBlockLeftIndent",
+          "Hex": "E291"
+        },
+        {
+          "Name": "FormatBlockRightDecrease",
+          "Hex": "E297"
+        },
+        {
+          "Name": "FormatBlockRightIncrease",
+          "Hex": "E298"
+        },
+        {
+          "Name": "FormatBold",
+          "Hex": "E19B"
+        },
+        {
+          "Name": "FormatFontSize",
+          "Hex": "E1C8"
+        },
+        {
+          "Name": "FormatFontSizeDecrease",
+          "Hex": "E1C6"
+        },
+        {
+          "Name": "FormatFontSizeIncrease",
+          "Hex": "E1C7"
+        },
+        {
+          "Name": "FormatTextCenter",
+          "Hex": "E1A1"
+        },
+        {
+          "Name": "FormatTextLeft",
+          "Hex": "E1A2"
+        },
+        {
+          "Name": "FormatTextRight",
+          "Hex": "E1A0"
+        },
+        {
+          "Name": "FormatUnderline",
+          "Hex": "E19A"
+        },
+        {
+          "Name": "Gps",
+          "Hex": "E1D2"
+        },
+        {
+          "Name": "Grid",
+          "Hex": "E80A"
+        },
+        {
+          "Name": "GridPerspective",
+          "Hex": "E809"
+        },
+        {
+          "Name": "Headphones",
+          "Hex": "E7F6"
+        },
+        {
+          "Name": "Headset",
+          "Hex": "E95B"
+        },
+        {
+          "Name": "Heart",
+          "Hex": "E00B"
+        },
+        {
+          "Name": "HeartBroken",
+          "Hex": "E007"
+        },
+        {
+          "Name": "HeartOutline",
+          "Hex": "E006"
+        },
+        {
+          "Name": "HeartPulse",
+          "Hex": "E95E"
+        },
+        {
+          "Name": "Help",
+          "Hex": "E11B"
+        },
+        {
+          "Name": "Home",
+          "Hex": "EA8A"
+        },
+        {
+          "Name": "HomeOutline",
+          "Hex": "E10F"
+        },
+        {
+          "Name": "HomeTree",
+          "Hex": "E1C3"
+        },
+        {
+          "Name": "Image",
+          "Hex": "EB9F"
+        },
+        {
+          "Name": "Indent",
+          "Hex": "E7FD"
+        },
+        {
+          "Name": "Info",
+          "Hex": "E946"
+        },
+        {
+          "Name": "InputMarker",
+          "Hex": "E193"
+        },
+        {
+          "Name": "InputMarkerColor1",
+          "Hex": "E891"
+        },
+        {
+          "Name": "InputMarkerColor2",
+          "Hex": "E82A"
+        },
+        {
+          "Name": "InputPen",
+          "Hex": "E76D"
+        },
+        {
+          "Name": "InputPenColor1",
+          "Hex": "E88F"
+        },
+        {
+          "Name": "InputPenColor2",
+          "Hex": "E829"
+        },
+        {
+          "Name": "Key",
+          "Hex": "E192"
+        },
+        {
+          "Name": "Keyboard",
+          "Hex": "E087"
+        },
+        {
+          "Name": "KeyboardDown",
+          "Hex": "E75B"
+        },
+        {
+          "Name": "KeyboardEnter",
+          "Hex": "E751"
+        },
+        {
+          "Name": "KeyboardLeft",
+          "Hex": "E763"
+        },
+        {
+          "Name": "KeyboardMouse",
+          "Hex": "E961"
+        },
+        {
+          "Name": "KeyboardRight",
+          "Hex": "E764"
+        },
+        {
+          "Name": "KeyboardSplit",
+          "Hex": "E08F"
+        },
+        {
+          "Name": "KeyboardUp",
+          "Hex": "E75A"
+        },
+        {
+          "Name": "Landmark",
+          "Hex": "E825"
+        },
+        {
+          "Name": "Laptop",
+          "Hex": "E770"
+        },
+        {
+          "Name": "LaptopMonitor",
+          "Hex": "E7F8"
+        },
+        {
+          "Name": "LaptopMonitorExtend",
+          "Hex": "E7F7"
+        },
+        {
+          "Name": "LaptopPrinter",
+          "Hex": "E772"
+        },
+        {
+          "Name": "LaptopTablet",
+          "Hex": "E212"
+        },
+        {
+          "Name": "Layers",
+          "Hex": "E81E"
+        },
+        {
+          "Name": "Led",
+          "Hex": "E781"
+        },
+        {
+          "Name": "Library",
+          "Hex": "E1D3"
+        },
+        {
+          "Name": "Lightbulb",
+          "Hex": "EA80"
+        },
+        {
+          "Name": "LineHorizontal",
+          "Hex": "E0B8"
+        },
+        {
+          "Name": "Link",
+          "Hex": "E167"
+        },
+        {
+          "Name": "List",
+          "Hex": "E292"
+        },
+        {
+          "Name": "ListBlock",
+          "Hex": "E15C"
+        },
+        {
+          "Name": "ListBlockRtl",
+          "Hex": "EA65"
+        },
+        {
+          "Name": "ListCheckRtl",
+          "Hex": "EA98"
+        },
+        {
+          "Name": "ListCollapse",
+          "Hex": "E16A"
+        },
+        {
+          "Name": "ListExpand",
+          "Hex": "E169"
+        },
+        {
+          "Name": "ListRtl",
+          "Hex": "E175"
+        },
+        {
+          "Name": "ListSelect",
+          "Hex": "E179"
+        },
+        {
+          "Name": "ListSelectRtl",
+          "Hex": "E1EC"
+        },
+        {
+          "Name": "ListSelectUp",
+          "Hex": "E17D"
+        },
+        {
+          "Name": "ListSelectUpRtl",
+          "Hex": "E1ED"
+        },
+        {
+          "Name": "Lock",
+          "Hex": "E1F6"
+        },
+        {
+          "Name": "Lowercase",
+          "Hex": "E84A"
+        },
+        {
+          "Name": "Magnify",
+          "Hex": "E1A3"
+        },
+        {
+          "Name": "MagnifyMinus",
+          "Hex": "E1A4"
+        },
+        {
+          "Name": "MagnifyPlus",
+          "Hex": "E12E"
+        },
+        {
+          "Name": "MapDownload",
+          "Hex": "E826"
+        },
+        {
+          "Name": "MapLocation",
+          "Hex": "E1C4"
+        },
+        {
+          "Name": "MapMarkerPause",
+          "Hex": "EB4A"
+        },
+        {
+          "Name": "MapMarkerPauseOutline",
+          "Hex": "E81A"
+        },
+        {
+          "Name": "MapMarkerPlay",
+          "Hex": "EB49"
+        },
+        {
+          "Name": "MapMarkerPlayOutline",
+          "Hex": "E819"
+        },
+        {
+          "Name": "MapPin",
+          "Hex": "E139"
+        },
+        {
+          "Name": "Media",
+          "Hex": "EA69"
+        },
+        {
+          "Name": "MediaFastforward",
+          "Hex": "EB9D"
+        },
+        {
+          "Name": "MediaNext",
+          "Hex": "E101"
+        },
+        {
+          "Name": "MediaPause",
+          "Hex": "E103"
+        },
+        {
+          "Name": "MediaPlay",
+          "Hex": "E102"
+        },
+        {
+          "Name": "MediaPlayer",
+          "Hex": "E955"
+        },
+        {
+          "Name": "MediaPrevious",
+          "Hex": "E100"
+        },
+        {
+          "Name": "MediaRepeat",
+          "Hex": "E1CA"
+        },
+        {
+          "Name": "MediaRewind",
+          "Hex": "EB9E"
+        },
+        {
+          "Name": "MediaServer",
+          "Hex": "E953"
+        },
+        {
+          "Name": "MediaWireless",
+          "Hex": "E952"
+        },
+        {
+          "Name": "Megaphone",
+          "Hex": "E789"
+        },
+        {
+          "Name": "Menu",
+          "Hex": "E700"
+        },
+        {
+          "Name": "Message",
+          "Hex": "E15F"
+        },
+        {
+          "Name": "MessageForwardRtl",
+          "Hex": "E89B"
+        },
+        {
+          "Name": "MessageMultiple",
+          "Hex": "E8F2"
+        },
+        {
+          "Name": "MessageProcessing",
+          "Hex": "E25C"
+        },
+        {
+          "Name": "MessageQuote",
+          "Hex": "E134"
+        },
+        {
+          "Name": "MessageVideo",
+          "Hex": "E13B"
+        },
+        {
+          "Name": "Microphone",
+          "Hex": "E1D6"
+        },
+        {
+          "Name": "Minus",
+          "Hex": "E108"
+        },
+        {
+          "Name": "Monitor",
+          "Hex": "E7F4"
+        },
+        {
+          "Name": "MonitorDuplicate",
+          "Hex": "E7F9"
+        },
+        {
+          "Name": "MonitorExtend",
+          "Hex": "E7FA"
+        },
+        {
+          "Name": "MonitorSound",
+          "Hex": "E7F3"
+        },
+        {
+          "Name": "MonitorTape",
+          "Hex": "E954"
+        },
+        {
+          "Name": "Moon",
+          "Hex": "E708"
+        },
+        {
+          "Name": "Mouse",
+          "Hex": "E962"
+        },
+        {
+          "Name": "Multiply",
+          "Hex": "E947"
+        },
+        {
+          "Name": "Music",
+          "Hex": "E189"
+        },
+        {
+          "Name": "Network",
+          "Hex": "E17B"
+        },
+        {
+          "Name": "NetworkClose",
+          "Hex": "E17A"
+        },
+        {
+          "Name": "Nfc",
+          "Hex": "E9A1"
+        },
+        {
+          "Name": "Note",
+          "Hex": "E70B"
+        },
+        {
+          "Name": "OpenInApp",
+          "Hex": "E17C"
+        },
+        {
+          "Name": "Outline",
+          "Hex": "E12F"
+        },
+        {
+          "Name": "OutlineRtl",
+          "Hex": "EA41"
+        },
+        {
+          "Name": "Palette",
+          "Hex": "E2B1"
+        },
+        {
+          "Name": "PanelBottom",
+          "Hex": "E147"
+        },
+        {
+          "Name": "PanelLeft",
+          "Hex": "E145"
+        },
+        {
+          "Name": "PanelRight",
+          "Hex": "E146"
+        },
+        {
+          "Name": "Pen",
+          "Hex": "E929"
+        },
+        {
+          "Name": "Percent",
+          "Hex": "E94C"
+        },
+        {
+          "Name": "Phone",
+          "Hex": "E13A"
+        },
+        {
+          "Name": "PhoneBook",
+          "Hex": "E1D4"
+        },
+        {
+          "Name": "PhoneForward",
+          "Hex": "E7F2"
+        },
+        {
+          "Name": "PhoneForwardRtl",
+          "Hex": "EA97"
+        },
+        {
+          "Name": "PhoneHangup",
+          "Hex": "E137"
+        },
+        {
+          "Name": "Pin",
+          "Hex": "E840"
+        },
+        {
+          "Name": "PinColor",
+          "Hex": "E842"
+        },
+        {
+          "Name": "PinLeft",
+          "Hex": "E141"
+        },
+        {
+          "Name": "PinLeftColor",
+          "Hex": "E841"
+        },
+        {
+          "Name": "Plus",
+          "Hex": "E109"
+        },
+        {
+          "Name": "PlusMinus",
+          "Hex": "E94D"
+        },
+        {
+          "Name": "Printer",
+          "Hex": "E2F6"
+        },
+        {
+          "Name": "Printer3d",
+          "Hex": "E2F7"
+        },
+        {
+          "Name": "Processor",
+          "Hex": "E950"
+        },
+        {
+          "Name": "Projector",
+          "Hex": "E95D"
+        },
+        {
+          "Name": "Puzzle",
+          "Hex": "EA86"
+        },
+        {
+          "Name": "Redo",
+          "Hex": "E10D"
+        },
+        {
+          "Name": "Refresh",
+          "Hex": "E117"
+        },
+        {
+          "Name": "Region",
+          "Hex": "E775"
+        },
+        {
+          "Name": "Remote",
+          "Hex": "E951"
+        },
+        {
+          "Name": "Rename",
+          "Hex": "E13E"
+        },
+        {
+          "Name": "Repeat",
+          "Hex": "E1CD"
+        },
+        {
+          "Name": "RepeatOnce",
+          "Hex": "E1CC"
+        },
+        {
+          "Name": "RotateClockwise",
+          "Hex": "E7AD"
+        },
+        {
+          "Name": "RotateLeft",
+          "Hex": "E14F"
+        },
+        {
+          "Name": "RotationLock",
+          "Hex": "E755"
+        },
+        {
+          "Name": "Router",
+          "Hex": "E965"
+        },
+        {
+          "Name": "RouterWireless",
+          "Hex": "E969"
+        },
+        {
+          "Name": "Scanner",
+          "Hex": "E294"
+        },
+        {
+          "Name": "Scissors",
+          "Hex": "E8C6"
+        },
+        {
+          "Name": "Sd",
+          "Hex": "E7F1"
+        },
+        {
+          "Name": "Search",
+          "Hex": "E094"
+        },
+        {
+          "Name": "Security",
+          "Hex": "E727"
+        },
+        {
+          "Name": "SecurityAlert",
+          "Hex": "E1DE"
+        },
+        {
+          "Name": "SelectionCut",
+          "Hex": "E924"
+        },
+        {
+          "Name": "SelectionRedo",
+          "Hex": "E1F4"
+        },
+        {
+          "Name": "SelectionUndo",
+          "Hex": "E1C5"
+        },
+        {
+          "Name": "SelectTable",
+          "Hex": "E14E"
+        },
+        {
+          "Name": "Send",
+          "Hex": "E122"
+        },
+        {
+          "Name": "Server",
+          "Hex": "E83B"
+        },
+        {
+          "Name": "ServerNetwork",
+          "Hex": "E968"
+        },
+        {
+          "Name": "Setting",
+          "Hex": "E115"
+        },
+        {
+          "Name": "Share",
+          "Hex": "E72D"
+        },
+        {
+          "Name": "Shuffle",
+          "Hex": "E14B"
+        },
+        {
+          "Name": "SidebarLeft_expand",
+          "Hex": "E1C0"
+        },
+        {
+          "Name": "SidebarLeftCollapse",
+          "Hex": "E1BF"
+        },
+        {
+          "Name": "SidebarRightCollapse",
+          "Hex": "E126"
+        },
+        {
+          "Name": "SidebarRightExpand",
+          "Hex": "E127"
+        },
+        {
+          "Name": "Signal1",
+          "Hex": "E86C"
+        },
+        {
+          "Name": "Signal2",
+          "Hex": "E86D"
+        },
+        {
+          "Name": "Signal3",
+          "Hex": "E86E"
+        },
+        {
+          "Name": "Signal4",
+          "Hex": "E86F"
+        },
+        {
+          "Name": "Signal5",
+          "Hex": "E870"
+        },
+        {
+          "Name": "SignalCancel",
+          "Hex": "E871"
+        },
+        {
+          "Name": "SlashForward",
+          "Hex": "E199"
+        },
+        {
+          "Name": "Sound",
+          "Hex": "E15D"
+        },
+        {
+          "Name": "Sound0",
+          "Hex": "E992"
+        },
+        {
+          "Name": "Sound1",
+          "Hex": "E993"
+        },
+        {
+          "Name": "Sound2",
+          "Hex": "E994"
+        },
+        {
+          "Name": "Sound3",
+          "Hex": "E995"
+        },
+        {
+          "Name": "SoundCancel",
+          "Hex": "E198"
+        },
+        {
+          "Name": "Space",
+          "Hex": "E75D"
+        },
+        {
+          "Name": "Speaker",
+          "Hex": "E7F5"
+        },
+        {
+          "Name": "SquareRoot",
+          "Hex": "E94B"
+        },
+        {
+          "Name": "Star",
+          "Hex": "E1CF"
+        },
+        {
+          "Name": "StarCancel",
+          "Hex": "E195"
+        },
+        {
+          "Name": "StarHalfLeft",
+          "Hex": "E7C6"
+        },
+        {
+          "Name": "StarHalfRight",
+          "Hex": "E7C7"
+        },
+        {
+          "Name": "StarOutline",
+          "Hex": "E1CE"
+        },
+        {
+          "Name": "Sun",
+          "Hex": "E706"
+        },
+        {
+          "Name": "Tablet",
+          "Hex": "E70A"
+        },
+        {
+          "Name": "Tag",
+          "Hex": "E1CB"
+        },
+        {
+          "Name": "Tape",
+          "Hex": "E96A"
+        },
+        {
+          "Name": "ThoughtBubble",
+          "Hex": "EA91"
+        },
+        {
+          "Name": "Thumbs",
+          "Hex": "E19D"
+        },
+        {
+          "Name": "ThumbsDown",
+          "Hex": "E19E"
+        },
+        {
+          "Name": "ThumbsUp",
+          "Hex": "E19F"
+        },
+        {
+          "Name": "Timer",
+          "Hex": "E916"
+        },
+        {
+          "Name": "Toolbox",
+          "Hex": "EB4E"
+        },
+        {
+          "Name": "ToolboxOutline",
+          "Hex": "E821"
+        },
+        {
+          "Name": "Tooltip",
+          "Hex": "E7E7"
+        },
+        {
+          "Name": "TooltipOutline",
+          "Hex": "E91C"
+        },
+        {
+          "Name": "Touch",
+          "Hex": "E815"
+        },
+        {
+          "Name": "TouchSlider",
+          "Hex": "E927"
+        },
+        {
+          "Name": "Tram",
+          "Hex": "EB4D"
+        },
+        {
+          "Name": "TramOutline",
+          "Hex": "E7C0"
+        },
+        {
+          "Name": "Translate",
+          "Hex": "E164"
+        },
+        {
+          "Name": "Undo",
+          "Hex": "E10E"
+        },
+        {
+          "Name": "Unlock",
+          "Hex": "E1F7"
+        },
+        {
+          "Name": "Upload",
+          "Hex": "E11C"
+        },
+        {
+          "Name": "Uppercase",
+          "Hex": "E84B"
+        },
+        {
+          "Name": "Usb",
+          "Hex": "E88E"
+        },
+        {
+          "Name": "Video",
+          "Hex": "E25D"
+        },
+        {
+          "Name": "VideoOutline",
+          "Hex": "E116"
+        },
+        {
+          "Name": "Voicemail",
+          "Hex": "E1D5"
+        },
+        {
+          "Name": "Walk",
+          "Hex": "E726"
+        },
+        {
+          "Name": "WalkOutline",
+          "Hex": "E805"
+        },
+        {
+          "Name": "Webcam",
+          "Hex": "E960"
+        },
+        {
+          "Name": "Wifi1",
+          "Hex": "E872"
+        },
+        {
+          "Name": "Wifi2",
+          "Hex": "E873"
+        },
+        {
+          "Name": "Wifi3",
+          "Hex": "E874"
+        },
+        {
+          "Name": "WifiOutline0",
+          "Hex": "E1E5"
+        },
+        {
+          "Name": "WifiOutline1",
+          "Hex": "E1E6"
+        },
+        {
+          "Name": "WifiOutline2",
+          "Hex": "E1E7"
+        },
+        {
+          "Name": "WifiOutline3",
+          "Hex": "E1E8"
+        },
+        {
+          "Name": "WifiOutline4",
+          "Hex": "E1E9"
+        },
+        {
+          "Name": "WindowCollapse",
+          "Hex": "E1D8"
+        },
+        {
+          "Name": "WindowExpand",
+          "Hex": "E1D9"
+        },
+        {
+          "Name": "Wireless",
+          "Hex": "E704"
+        },
+        {
+          "Name": "World",
+          "Hex": "E128"
+        },
+        {
+          "Name": "WorldWire",
+          "Hex": "E12B"
+        },
+        {
+          "Name": "Wrench",
+          "Hex": "E15E"
+        },
+        {
+          "Name": "Xbox",
+          "Hex": "E990"
+        }
+      ]
+    },
+
+    {
+      "FontFamily": "Segoe UI",
+      "FriendlyName": "Emoji - Persons",
+      "ResourcePrefix": "MDL2_",
+      "FontSize": 60,
+      "Symbols": [
+        {"Hex":"1F604","Name":"Smiling Face with Open Mouth and Smiling Eyes"},
+        {"Hex":"1F603","Name":"Smiling Face With Open Mouth"},
+        {"Hex":"1F600","Name":"Grinning Face with Smiling Eyes"},
+        {"Hex":"1F60A","Name":"Smiling Face with Smiling Eyes"},
+        {"Hex":"263A","Name":"White Smiling Face"},
+        {"Hex":"1F609","Name":"Winking Face"},
+        {"Hex":"1F60D","Name":"Smiling Face With Heart-Shaped Eyes"},
+        {"Hex":"1F618","Name":"Face Throwing a Kiss"},
+        {"Hex":"1F61A","Name":"Kissing Face With Closed Eyes"},
+        {"Hex":"1F617","Name":"Kissing Face"},
+        {"Hex":"1F619","Name":"Kissing Face With Smiling Eyes"},
+        {"Hex":"1F61C","Name":"Face with Stuck-Out Tongue and Winking Eye"},
+        {"Hex":"1F61D","Name":"Face with Stuck-Out Tongue and Tightly-Closed Eyes"},
+        {"Hex":"1F61B","Name":"Face With Stuck-Out Tongue"},
+        {"Hex":"1F633","Name":"Flushed Face"},
+        {"Hex":"1F601","Name":"Grinning Face with Smiling Eyes"},
+        {"Hex":"1F614","Name":"Pensive Face"},
+        {"Hex":"1F60C","Name":"Relieved Face"},
+        {"Hex":"1F612","Name":"Unamused Face"},
+        {"Hex":"1F61E","Name":"Disappointed Face"},
+        {"Hex":"1F623","Name":"Persevering Face"},
+        {"Hex":"1F622","Name":"Crying Face"},
+        {"Hex":"1F602","Name":"Face with Tears of Joy"},
+        {"Hex":"1F62D","Name":"Loudly Crying Face"},
+        {"Hex":"1F62A","Name":"Sleepy Face"},
+        {"Hex":"1F625","Name":"Disappointed but Relieved Face"},
+        {"Hex":"1F630","Name":"Face with Open Mouth and Cold Sweat"},
+        {"Hex":"1F605","Name":"Smiling Face With Open Mouth And Cold Sweat"},
+        {"Hex":"1F613","Name":"Face with Cold Sweat"},
+        {"Hex":"1F629","Name":"Weary Face"},
+        {"Hex":"1F62B","Name":"Tired Face"},
+        {"Hex":"1F628","Name":"Fearful Face"},
+        {"Hex":"1F631","Name":"Face Screaming in Fear"},
+        {"Hex":"1F620","Name":"Angry Face"},
+        {"Hex":"1F621","Name":"Pouting Face"},
+        {"Hex":"1F624","Name":"Face With Look Of Triumph"},
+        {"Hex":"1F616","Name":"Confounded Face"},
+        {"Hex":"1F606","Name":"Smiling Face With Open Mouth And Tightly-Closed Eyes"},
+        {"Hex":"1F60B","Name":"Face Savouring Delicious Food"},
+        {"Hex":"1F637","Name":"Face with Medical Mask"},
+        {"Hex":"1F60E","Name":"Smiling Face With Sunglasses"},
+        {"Hex":"1F634","Name":"Sleeping Face"},
+        {"Hex":"1F635","Name":"Dizzy Face"},
+        {"Hex":"1F632","Name":"Astonished Face"},
+        {"Hex":"1F61F","Name":"Worried Face"},
+        {"Hex":"1F626","Name":"Frowning Face With Open Mouth"},
+        {"Hex":"1F627","Name":"Anguished Face"},
+        {"Hex":"1F608","Name":"Smiling Face With Horns"},
+        {"Hex":"1F47F","Name":"IMP"},
+        {"Hex":"1F62E","Name":"Face With Open Mouth"},
+        {"Hex":"1F62C","Name":"Grimacing Face"},
+        {"Hex":"1F610","Name":"Neutral Face"},
+        {"Hex":"1F615","Name":"Confused Face"},
+        {"Hex":"1F62F","Name":"Hushed Face"},
+        {"Hex":"1F636","Name":"Face Without Mouth"},
+        {"Hex":"1F607","Name":"Smiling Face With Halo"},
+        {"Hex":"1F60F","Name":"Smirking Face"},
+        {"Hex":"1F611","Name":"Expressionless Face"},
+        {"Hex":"1F472","Name":"Man With Gua Pi Mao"},
+        {"Hex":"1F473","Name":"Man with Turban"},
+        {"Hex":"1F46E","Name":"Police Officer"},
+        {"Hex":"1F477","Name":"Construction Worker"},
+        {"Hex":"1F482","Name":"Guardsman"},
+        {"Hex":"1F476","Name":"Baby"},
+        {"Hex":"1F466","Name":"Boy"},
+        {"Hex":"1F467","Name":"Girl"},
+        {"Hex":"1F468","Name":"Man"},
+        {"Hex":"1F469","Name":"Woman"},
+        {"Hex":"1F474","Name":"Older Man"},
+        {"Hex":"1F475","Name":"Older Woman"},
+        {"Hex":"1F471","Name":"Person With Blonde Hair"},
+        {"Hex":"1F47C","Name":"Baby Angel"},
+        {"Hex":"1F478","Name":"Princess"},
+        {"Hex":"1F63A","Name":"Smiling Cat Face With Open Mouth"},
+        {"Hex":"1F638","Name":"Grinning Cat Face With Smiling Eyes"},
+        {"Hex":"1F63B","Name":"Smiling Face Face With Heart-Shaped Eyes"},
+        {"Hex":"1F63D","Name":"Kissing Cat Face With Closed Eyes"},
+        {"Hex":"1F63C","Name":"Cat Face With Wry Smile"},
+        {"Hex":"1F640","Name":"Weary Cat Face"},
+        {"Hex":"1F63F","Name":"Crying Cat Face"},
+        {"Hex":"1F639","Name":"Cat Face With Tears Of Joy"},
+        {"Hex":"1F63E","Name":"Pouting Cat Face"},
+        {"Hex":"1F479","Name":"Japanese Ogre"},
+        {"Hex":"1F47A","Name":"Japanese Goblin"},
+        {"Hex":"1F648","Name":"See-No-Evil Monkey"},
+        {"Hex":"1F649","Name":"Hear-No-Evil Monkey"},
+        {"Hex":"1F64A","Name":"Speak-No-Evil Monkey"},
+        {"Hex":"1F480","Name":"Skull"},
+        {"Hex":"1F47D","Name":"Extraterrestrial Alien"},
+        {"Hex":"1F4A9","Name":"Pile Of Poo"},
+        {"Hex":"1F525","Name":"Fire"},
+        {"Hex":"2728","Name":"Sparkles"},
+        {"Hex":"1F31F","Name":"Glowing Star"},
+        {"Hex":"1F4AB","Name":"Dizzy Symbol"},
+        {"Hex":"1F4A5","Name":"Collision Symbol"},
+        {"Hex":"1F4A2","Name":"Anger Symbol"},
+        {"Hex":"1F4A6","Name":"Splashing Sweat Symbol"},
+        {"Hex":"1F4A7","Name":"Droplet"},
+        {"Hex":"1F4A4","Name":"Sleeping Symbol"},
+        {"Hex":"1F4A8","Name":"Dash Symbol"},
+        {"Hex":"1F442","Name":"Ear"},
+        {"Hex":"1F440","Name":"Eyes"},
+        {"Hex":"1F443","Name":"Nose"},
+        {"Hex":"1F445","Name":"Tongue"},
+        {"Hex":"1F444","Name":"Mouth"},
+        {"Hex":"1F44D","Name":"Thumbs Up Sign"},
+        {"Hex":"1F44E","Name":"Thumbs Down Sign"},
+        {"Hex":"1F44C","Name":"OK Hand Sign"},
+        {"Hex":"1F44A","Name":"Fisted Hand Sign"},
+        {"Hex":"270A","Name":"Raised Fist"},
+        {"Hex":"270C","Name":"Victory Hand"},
+        {"Hex":"1F44B","Name":"Waving Hand Sign"},
+        {"Hex":"270B","Name":"Raised Hand"},
+        {"Hex":"1F450","Name":"Open Hands Sign"},
+        {"Hex":"1F446","Name":"White Up Pointing Backhand Index"},
+        {"Hex":"1F447","Name":"White Down Pointing Backhand Index"},
+        {"Hex":"1F449","Name":"White Right Pointing Backhand Index"},
+        {"Hex":"1F448","Name":"White Left Pointing Backhand Index"},
+        {"Hex":"1F64C","Name":"Person Raising Both Hands in Celebration"},
+        {"Hex":"1F64F","Name":"Person With Folded Hands"},
+        {"Hex":"261D","Name":"White Up Pointing Index"},
+        {"Hex":"1F44F","Name":"Clapping Hands Sign"},
+        {"Hex":"1F4AA","Name":"Flexed Biceps"},
+        {"Hex":"1F6B6","Name":"Pedestrian"},
+        {"Hex":"1F3C3","Name":"Runner"},
+        {"Hex":"1F483","Name":"Dancer"},
+        {"Hex":"1F46B","Name":"Man and Woman Holding Hands"},
+        {"Hex":"1F46A","Name":"Family"},
+        {"Hex":"1F46C","Name":"Two Men Holding Hands"},
+        {"Hex":"1F46D","Name":"Two Women Holding Hands"},
+        {"Hex":"1F48F","Name":"Kiss"},
+        {"Hex":"1F491","Name":"Couple with Heart"},
+        {"Hex":"1F46F","Name":"Women With Bunny Ears"},
+        {"Hex":"1F646","Name":"Face With OK Gesture"},
+        {"Hex":"1F645","Name":"Face With No Good Gesture"},
+        {"Hex":"1F481","Name":"Information Desk Person"},
+        {"Hex":"1F64B","Name":"Happy Person Raising One Hand"},
+        {"Hex":"1F486","Name":"Face Massage"},
+        {"Hex":"1F487","Name":"Haircut"},
+        {"Hex":"1F485","Name":"Nail Polish"},
+        {"Hex":"1F470","Name":"Bride With Veil"},
+        {"Hex":"1F64E","Name":"Person With Pouting Face"},
+        {"Hex":"1F64D","Name":"Person Frowning"},
+        {"Hex":"1F647","Name":"Person Bowing Deeply"},
+        {"Hex":"1F3A9","Name":"Top Hat"},
+        {"Hex":"1F451","Name":"Crown"},
+        {"Hex":"1F452","Name":"Womans Hat"},
+        {"Hex":"1F45F","Name":"Athletic Shoe"},
+        {"Hex":"1F45E","Name":"Mens Shoe"},
+        {"Hex":"1F461","Name":"Womans Sandal"},
+        {"Hex":"1F460","Name":"High-Heeled Shoe"},
+        {"Hex":"1F462","Name":"Womans Boots"},
+        {"Hex":"1F455","Name":"T-Shirt"},
+        {"Hex":"1F454","Name":"Necktie"},
+        {"Hex":"1F45A","Name":"Womans Clothes"},
+        {"Hex":"1F457","Name":"Dress"},
+        {"Hex":"1F3BD","Name":"Running Shirt With Sash"},
+        {"Hex":"1F456","Name":"Jeans"},
+        {"Hex":"1F458","Name":"Kimono"},
+        {"Hex":"1F459","Name":"Bikini"},
+        {"Hex":"1F4BC","Name":"Briefcase"},
+        {"Hex":"1F45C","Name":"Handbag"},
+        {"Hex":"1F45D","Name":"Pouch"},
+        {"Hex":"1F45B","Name":"Purse"},
+        {"Hex":"1F453","Name":"Eyeglasses"},
+        {"Hex":"1F380","Name":"Ribbon"},
+        {"Hex":"1F302","Name":"Closed Umbrella"},
+        {"Hex":"1F484","Name":"Lipstick"},
+        {"Hex":"1F49B","Name":"Yellow Heart"},
+        {"Hex":"1F499","Name":"Blue Heart"},
+        {"Hex":"1F49C","Name":"Purple Heart"},
+        {"Hex":"1F49A","Name":"Green Heart"},
+        {"Hex":"2764","Name":"Heavy Black Heart"},
+        {"Hex":"1F494","Name":"Broken Heart"},
+        {"Hex":"1F497","Name":"Growing Heart"},
+        {"Hex":"1F493","Name":"Beating Heart"},
+        {"Hex":"1F495","Name":"Two Hearts"},
+        {"Hex":"1F496","Name":"Sparkling Hearts"},
+        {"Hex":"1F49E","Name":"Revolving Hearts"},
+        {"Hex":"1F498","Name":"Heart with Arrow"},
+        {"Hex":"1F48C","Name":"Love Letter"},
+        {"Hex":"1F48B","Name":"Kiss Mark"},
+        {"Hex":"1F48D","Name":"Ring"},
+        {"Hex":"1F48E","Name":"Gem Stone"},
+        {"Hex":"1F464","Name":"Bust In Silhouette"},
+        {"Hex":"1F465","Name":"Busts In Silhouette"},
+        {"Hex":"1F4AC","Name":"Speech Balloon"},
+        {"Hex":"1F463","Name":"Footprints"},
+        {"Hex":"1F4AD","Name":"Thought Balloon"}
+      ]
+    }
+  ]
+}
