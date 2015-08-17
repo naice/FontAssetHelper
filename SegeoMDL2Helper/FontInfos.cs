@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SegeoMDL2Helper
+namespace FontAssetHelper
 {
     public class FontInfos : BaseViewModel
     {

@@ -5,7 +5,7 @@ using System.ComponentModel;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace SegeoMDL2Helper
+namespace FontAssetHelper
 {
     public class BaseViewModel : INotifyPropertyChanged
     {

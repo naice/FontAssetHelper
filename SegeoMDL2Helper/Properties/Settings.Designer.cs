@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SegeoMDL2Helper.Properties
+namespace FontAssetHelper.Properties
 {
 
 

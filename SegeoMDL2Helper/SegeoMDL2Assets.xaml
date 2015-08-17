@@ -1,7 +1,7 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:System="clr-namespace:System;assembly=mscorlib"
-                    xmlns:local="clr-namespace:SegeoMDL2Helper">
+                    xmlns:local="clr-namespace:FontAssetHelper">
     <System:String x:Key="MDL2_Account">&#xEA8C;</System:String>
     <System:String x:Key="MDL2_AccountBox">&#xE187;</System:String>
     <System:String x:Key="MDL2_AccountCancel">&#xE1E0;</System:String>
