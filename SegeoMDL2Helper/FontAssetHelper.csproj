@@ -140,12 +140,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="emoji.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="emoji_48.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Yahoo Messenger.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
