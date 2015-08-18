@@ -36,11 +36,11 @@ namespace FontAssetHelper
                     int d = int.Parse(Hex, NumberStyles.HexNumber);
                     if (Hex.Length > 4)
                     {
-                        _XamlMarkup = string.Format("&x{0:X8};", d);
+                        _XamlMarkup = string.Format("&#x{0:X8};", d);
                     }
                     else
                     {
-                        _XamlMarkup = string.Format("&x{0:X4};", d);
+                        _XamlMarkup = string.Format("&#x{0:X4};", d);
                     }
                 }
                 return _XamlMarkup;
