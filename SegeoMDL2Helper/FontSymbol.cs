@@ -53,8 +53,15 @@ namespace FontAssetHelper
         {
             get
             {
-                if (!string.IsNullOrEmpty(Name) && string.IsNullOrEmpty(_SearchToken))
-                    _SearchToken = Name.ToLower();
+                _SearchToken = "";
+                if (string.IsNullOrEmpty(_SearchToken))
+                {
+                    if (!string.IsNullOrEmpty(Name))
+                        _SearchToken = Name.ToLower();
+                    if (!string.IsNullOrEmpty(XamlMarkup))
+                        _SearchToken += " " + XamlMarkup.ToLower();
+                }
+
                 return _SearchToken;
             }
         }
