@@ -84,6 +84,7 @@ namespace FontAssetHelper
             }
         }
 
+        [DebuggerNonUserCode]
         private async void trigger(object param)
         {
             if (_tokenSource != null)
