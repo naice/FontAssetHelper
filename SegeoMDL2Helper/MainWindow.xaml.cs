@@ -43,13 +43,21 @@ namespace FontAssetHelper
             }
         }
 
+        WaitForTrigger searchTrigger;
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
-            if (fontInfos != null)
+            if (searchTrigger == null)
             {
-                fontInfos.SearchToken = edSearch.Text;
-                fontInfos.Search();
+                searchTrigger = new WaitForTrigger(750, (p) => {
+                    if (fontInfos != null)
+                    {
+
+                        fontInfos.SearchToken = edSearch.Text;
+                        fontInfos.Search();
+                    }
+                });
             }
+            searchTrigger.Trigger();            
         }
 
         private void putclipboard(string val)

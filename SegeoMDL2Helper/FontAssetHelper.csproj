@@ -90,6 +90,7 @@
     <Compile Include="FontInfo.cs" />
     <Compile Include="FontInfos.cs" />
     <Compile Include="SegeoMDL2Assets.cs" />
+    <Compile Include="WaitForTrigger.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
